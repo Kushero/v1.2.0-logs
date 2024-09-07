@@ -46,17 +46,36 @@
               "tags": [
                 {
                   "code": "origin",
-                  "list": [{ "code": "country", "value": "IND" }]
+                  "list": [
+                    {
+                      "code": "country",
+                      "value": "IND"
+                    }
+                  ]
                 },
                 {
                   "code": "attribute",
-                  "list": [{ "code": "brand", "value": "Asoka" }]
+                  "list": [
+                    {
+                      "code": "brand",
+                      "value": "Asoka"
+                    }
+                  ]
                 }
               ],
               "quantity": {
-                "unitized": { "measure": { "unit": "gram", "value": "35" } },
-                "available": { "count": "0" },
-                "maximum": { "count": "100" }
+                "unitized": {
+                  "measure": {
+                    "unit": "gram",
+                    "value": "35"
+                  }
+                },
+                "available": {
+                  "count": "0"
+                },
+                "maximum": {
+                  "count": "100"
+                }
               },
               "category_id": "Bath Soaps and Gels",
               "fulfillment_id": "1",
