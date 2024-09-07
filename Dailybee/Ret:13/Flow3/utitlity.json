@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "response": {
+    "message": "Logs were verified successfully",
+    "report": {},
+    "bpp_id": "ondc-pp-v2.dlyb.in",
+    "bap_id": "buyer-app-preprod-v2.ondc.org",
+    "domain": "ONDC:RET13",
+    "reportTimestamp": "2024-09-07T17:41:43.675Z"
+  },
+  "signature": "nrV1EPYcxejSRXy7hMpXoHams+OMT+oMRYFVbeNemG6uPBge8oiE6GGGYge6MUrMi8NVcrA2alqtLUg7v4O/Bw==",
+  "signTimestamp": "2024-09-07T17:41:43.675Z"
+}
