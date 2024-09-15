@@ -172,6 +172,36 @@
           "start": {
             "time": {
               "timestamp": "2024-09-04T09:49:32.660Z"
+            },
+            "location": {
+              "gps": "12.931582,77.685340",
+              "address": {
+                "name": "integrations-hithesh",
+                "building": "shilpa tech park",
+                "locality": "Devarabisanahalli Road",
+                "city": "Bengaluru",
+                "state": "Karnataka",
+                "country": "IND",
+                "area_code": "560103"
+              }
+            }
+          },
+          "end": {
+            "time": {
+              "timestamp": "2024-09-04T09:49:48.298Z"
+            },
+            "location": {
+              "id": "PL_663b43b55123b55984298e82",
+              "descriptor": {
+                "name": "Dailybee F&B payloads store"
+              },
+              "gps": "12.932463,77.685220",
+              "address": {
+                "locality": "Bellandur",
+                "city": "Bengaluru",
+                "area_code": "560103",
+                "state": "Karnataka"
+              }
             }
           },
           "tags": [
@@ -250,12 +280,7 @@
                 }
               ]
             }
-          ],
-          "end": {
-            "time": {
-              "timestamp": "2024-09-04T09:49:48.298Z"
-            }
-          }
+          ]
         }
       ],
       "quote": {
