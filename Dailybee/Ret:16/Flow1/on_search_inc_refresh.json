@@ -1,6 +1,6 @@
 {
   "context": {
-    "domain": "ONDC:RET12",
+    "domain": "ONDC:RET16",
     "country": "IND",
     "city": "*",
     "action": "on_search",
@@ -18,28 +18,33 @@
     "catalog": {
       "bpp/providers": [
         {
-          "id": "65be5b3e27a73be717edc9c3",
+          "id": "66184ec19e0a61a19b7294cb",
           "items": [
             {
-              "id": "66389f996d2f95bf70c3bde3",
+              "id": "66185c7dd4c1af16c30ba2bf",
               "descriptor": {
-                "name": "Shirt",
-                "code": "4:0010",
-                "symbol": "https://assets.dlyb.in/thumbs/logo-grayscale.png",
-                "short_desc": "Slim fit full hands check shirt",
-                "long_desc": "Slim fit full hands check shirt",
-                "images": ["https://assets.dlyb.in/thumbs/logo-grayscale.png"]
+                "name": "Angle Adjustable Wedge/undefined",
+                "code": "1:44185195381037",
+                "symbol": "https://cdn.shopify.com/s/files/1/0689/3073/2333/products/AAW-6.jpg?v=1677066029",
+                "short_desc": "Angle Adjustable Wedge/undefined",
+                "long_desc": "Angle Adjustable Wedge/undefined",
+                "images": [
+                  "https://cdn.shopify.com/s/files/1/0689/3073/2333/products/AAW-6.jpg?v=1677066029",
+                  "https://cdn.shopify.com/s/files/1/0689/3073/2333/products/600x600_0001_u9nT71HCb5kjFmz136CcF5n2ICoQc0Gl1n6yEHtv_2000x_583f447e-76a3-416d-a48b-a158d125eda6.jpg?v=1677066029"
+                ]
               },
               "price": {
                 "currency": "INR",
-                "value": "400.00",
-                "maximum_value": "500.00"
+                "value": "2940.00",
+                "maximum_value": "2940.00"
               },
-              "location_id": "PL_65be5b3e27a73be717edc9c3",
+              "location_id": "PL_66184ec19e0a61a19b7294cb",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-08-30T04:50:39.474Z"
+                "timestamp": "2024-09-15T14:30:08.014Z"
               },
+              "related": true,
+              "recommended": true,
               "tags": [
                 {
                   "code": "origin",
@@ -48,16 +53,10 @@
                 {
                   "code": "attribute",
                   "list": [
-                    { "code": "gender", "value": "male" },
-                    { "code": "colour", "value": "#FF0000" },
-                    { "code": "colour_name", "value": "red" },
-                    { "code": "size", "value": "L" },
-                    { "code": "brand", "value": "UK CLUB" },
-                    {
-                      "code": "size_chart",
-                      "value": "https://drive.google.com/file/d/1__e2qQoQHnicOCu8p8PDgkwxv90OB07P/view?usp=drive_link"
-                    },
-                    { "code": "fabric", "value": "alpha" }
+                    { "code": "brand", "value": "UrbanBed" },
+                    { "code": "colour", "value": "#000000" },
+                    { "code": "material", "value": "alpha" },
+                    { "code": "weight", "value": "3.2" }
                   ]
                 }
               ],
@@ -66,25 +65,23 @@
                 "available": { "count": "0" },
                 "maximum": { "count": "15" }
               },
-              "category_id": "Shirts",
+              "category_id": "Home Furnishing - Bedding and Linen",
               "fulfillment_id": "1",
               "@ondc/org/returnable": true,
               "@ondc/org/cancellable": true,
-              "@ondc/org/return_window": "P1D",
               "@ondc/org/seller_pickup_return": false,
-              "@ondc/org/time_to_ship": "PT30M",
               "@ondc/org/available_on_cod": false,
+              "@ondc/org/return_window": "P1D",
+              "@ondc/org/time_to_ship": "PT30M",
               "@ondc/org/contact_details_consumer_care": "Snehith,help@dailybee.in,8310103203",
               "@ondc/org/statutory_reqs_packaged_commodities": {
-                "manufacturer_or_packer_name": "Dailybee - Fashion Test Scripts",
-                "manufacturer_or_packer_address": "12th Main Rd,  HAL 2nd Stage,Doopanahalli, Indiranagar,Bengaluru,Karnataka-560103",
-                "common_or_generic_name_of_commodity": "Shirts",
-                "month_year_of_manufacture_packing_import": "03/2024"
+                "manufacturer_or_packer_name": "UrbanBed",
+                "manufacturer_or_packer_address": "Shop No. 17 & 18, Ground Floor",
+                "common_or_generic_name_of_commodity": "home decor",
+                "month_year_of_manufacture_packing_import": "24/03/2024"
               }
             }
-          ],
-          "@ondc/org/fssai_license_no": "12341234123412",
-          "categories": []
+          ]
         }
       ]
     }
