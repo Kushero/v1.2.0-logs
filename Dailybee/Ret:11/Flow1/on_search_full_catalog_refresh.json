@@ -100,29 +100,7 @@
             {
               "code": "timing",
               "list": [
-                { "code": "type", "value": "Order" },
-                { "code": "location", "value": "PL_663b43b55123b55984298e82" },
-                { "code": "day_from", "value": "1" },
-                { "code": "day_to", "value": "7" },
-                { "code": "time_from", "value": "0900" },
-                { "code": "time_to", "value": "2100" }
-              ]
-            },
-            {
-              "code": "timing",
-              "list": [
-                { "code": "type", "value": "Self-Pickup" },
-                { "code": "location", "value": "PL_663b43b55123b55984298e82" },
-                { "code": "day_from", "value": "1" },
-                { "code": "day_to", "value": "7" },
-                { "code": "time_from", "value": "0900" },
-                { "code": "time_to", "value": "2100" }
-              ]
-            },
-            {
-              "code": "timing",
-              "list": [
-                { "code": "type", "value": "Delivery" },
+                { "code": "type", "value": "All" },
                 { "code": "location", "value": "PL_663b43b55123b55984298e82" },
                 { "code": "day_from", "value": "1" },
                 { "code": "day_to", "value": "7" },
@@ -134,7 +112,7 @@
               "code": "serviceability",
               "list": [
                 { "code": "location", "value": "PL_663b43b55123b55984298e82" },
-                { "code": "category", "value": "Pizza" },
+                { "code": "category", "value": "F&B" },
                 { "code": "type", "value": "10" },
                 { "code": "val", "value": "1" },
                 { "code": "unit", "value": "km" }
@@ -193,7 +171,7 @@
                   }
                 ]
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "category_ids": ["00000CM76685:1"],
               "fulfillment_id": "1",
               "location_id": "PL_663b43b55123b55984298e82",
@@ -253,7 +231,7 @@
                 "value": "319.00",
                 "maximum_value": "319.00"
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "category_ids": ["00000CM76685:2"],
               "fulfillment_id": "1",
               "location_id": "PL_663b43b55123b55984298e82",
@@ -305,7 +283,7 @@
                 "value": "209.00",
                 "maximum_value": "209.00"
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "category_ids": ["00000CM76685:3"],
               "fulfillment_id": "1",
               "location_id": "PL_663b43b55123b55984298e82",
@@ -347,7 +325,7 @@
                 "value": "0.00",
                 "maximum_value": "0.00"
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "related": true,
               "tags": [
                 {
@@ -381,7 +359,7 @@
                 "value": "10.00",
                 "maximum_value": "10.00"
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "related": true,
               "tags": [
                 {
@@ -415,7 +393,7 @@
                 "value": "20.00",
                 "maximum_value": "20.00"
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "related": true,
               "tags": [
                 {
@@ -445,7 +423,7 @@
                 "value": "20.00",
                 "maximum_value": "20.00"
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "related": true,
               "tags": [
                 {
@@ -475,7 +453,7 @@
                 "value": "20.00",
                 "maximum_value": "20.00"
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "related": true,
               "tags": [
                 {
@@ -505,7 +483,7 @@
                 "value": "10.00",
                 "maximum_value": "10.00"
               },
-              "category_id": "Pizza",
+              "category_id": "F&B",
               "related": true,
               "tags": [
                 {

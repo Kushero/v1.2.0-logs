@@ -22,18 +22,7 @@
           "quantity": {
             "count": 1
           },
-          "location_id": "PL_663b43b55123b55984298e82",
-          "tags": [
-            {
-              "code": "type",
-              "list": [
-                {
-                  "code": "type",
-                  "value": "item"
-                }
-              ]
-            }
-          ]
+          "location_id": "PL_663b43b55123b55984298e82"
         },
         {
           "id": "663b44b15123b55984298e83",
@@ -41,17 +30,6 @@
             "count": 1
           },
           "location_id": "PL_663b43b55123b55984298e82",
-          "tags": [
-            {
-              "code": "type",
-              "list": [
-                {
-                  "code": "type",
-                  "value": "item"
-                }
-              ]
-            }
-          ],
           "parent_item_id": "r0E4K7DOVhXW"
         },
         {
