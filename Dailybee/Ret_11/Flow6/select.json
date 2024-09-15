@@ -22,18 +22,7 @@
           "quantity": {
             "count": 4
           },
-          "location_id": "PL_663b43b55123b55984298e82",
-          "tags": [
-            {
-              "code": "type",
-              "list": [
-                {
-                  "code": "type",
-                  "value": "item"
-                }
-              ]
-            }
-          ]
+          "location_id": "PL_663b43b55123b55984298e82"
         }
       ],
       "provider": {
