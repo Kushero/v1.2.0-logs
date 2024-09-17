@@ -9,9 +9,9 @@
     "bap_uri": "https://ondc.paytm.com/retail",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "825984c3-f90c-4efa-a3cc-09f73f97ea1e",
-    "message_id": "6a1d63a4-4ec3-4ef6-b490-101449fc6398",
-    "timestamp": "2024-08-30T04:50:39.474Z",
+    "transaction_id": "bce2eea8-76ac-46d7-9606-de6cca957f6b",
+    "message_id": "83ce77b5-e32e-41ac-8311-9b89ada4fa81",
+    "timestamp": "2024-09-17T17:22:21.530Z",
     "ttl": "PT30S"
   },
   "message": {
@@ -40,7 +40,7 @@
           "id": "661b9fcb5f16426496d3f219",
           "time": {
             "label": "enable",
-            "timestamp": "2024-08-29T14:30:08.014Z"
+            "timestamp": "2024-09-17T16:22:21.530Z"
           },
           "fulfillments": [
             {
@@ -64,7 +64,7 @@
               "id": "PL_661b9fcb5f16426496d3f219",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-08-29T14:30:08.014Z",
+                "timestamp": "2024-09-17T16:22:21.530Z",
                 "days": "1,2,3,4,5,6,7",
                 "schedule": { "holidays": [] },
                 "range": { "start": "0900", "end": "2100" }
@@ -141,7 +141,7 @@
               "location_id": "PL_661b9fcb5f16426496d3f219",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-08-28T04:55:39.474Z"
+                "timestamp": "2024-09-17T16:22:21.530Z"
               },
               "related": true,
               "recommended": true,
@@ -205,7 +205,7 @@
               "location_id": "PL_661b9fcb5f16426496d3f219",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-08-28T04:55:39.474Z"
+                "timestamp": "2024-09-17T16:22:21.530Z"
               },
               "related": true,
               "recommended": true,
@@ -270,7 +270,7 @@
               "location_id": "PL_661b9fcb5f16426496d3f219",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-08-28T04:55:39.474Z"
+                "timestamp": "2024-09-17T16:22:21.530Z"
               },
               "related": true,
               "recommended": true,
@@ -399,7 +399,7 @@
               "location_id": "PL_661b9fcb5f16426496d3f219",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-08-28T04:55:39.474Z"
+                "timestamp": "2024-09-17T16:22:21.530Z"
               },
               "related": true,
               "recommended": true,
@@ -463,7 +463,7 @@
               "location_id": "PL_661b9fcb5f16426496d3f219",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-08-28T04:55:39.474Z"
+                "timestamp": "2024-09-17T16:22:21.530Z"
               },
               "related": true,
               "recommended": true,
@@ -527,7 +527,7 @@
               "location_id": "PL_661b9fcb5f16426496d3f219",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-08-28T04:55:39.474Z"
+                "timestamp": "2024-09-17T16:22:21.530Z"
               },
               "related": true,
               "recommended": true,
