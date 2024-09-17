@@ -1,0 +1,60 @@
+{
+  "context": {
+    "domain": "ONDC:RET11",
+    "country": "IND",
+    "city": "std:080",
+    "action": "on_track",
+    "core_version": "1.2.0",
+    "bap_id": "buyer-app-preprod-v2.ondc.org",
+    "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
+    "bpp_id": "ondc-pp-v2.dlyb.in",
+    "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
+    "transaction_id": "98e43fab-82fe-4887-b471-9e0abe3b6ade",
+    "message_id": "e1849a4e-a7c6-48e8-9fd6-27838029612c",
+    "timestamp": "2024-09-04T08:45:40.846Z",
+    "ttl": "PT30S"
+  },
+  "message": {
+    "tracking": {
+      "id": "SD_PL_663b43b55123b55984298e82",
+      "status": "inactive",
+      "tags": [
+        {
+          "code": "order",
+          "list": [
+            {
+              "code": "id",
+              "value": "2024-09-04-981119"
+            }
+          ]
+        },
+        {
+          "code": "config",
+          "list": [
+            {
+              "code": "attr",
+              "value": "tracking.location.gps"
+            },
+            {
+              "code": "type",
+              "value": "live_poll"
+            }
+          ]
+        },
+        {
+          "code": "path",
+          "list": [
+            {
+              "code": "lat_lng",
+              "value": "12.931582,77.685340"
+            },
+            {
+              "code": "sequence",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

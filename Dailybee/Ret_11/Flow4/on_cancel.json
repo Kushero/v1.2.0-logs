@@ -165,6 +165,42 @@
               "code": "Cancelled"
             }
           },
+          "start": {
+            "contact": {
+              "phone": "7337451108",
+              "email": "hitheshlade1214@gmail.com"
+            },
+            "person": {
+              "name": "integrations-hithesh"
+            },
+            "location": {
+              "gps": "12.931582,77.685340",
+              "address": {
+                "name": "integrations-hithesh",
+                "building": "shilpa tech park",
+                "locality": "Devarabisanahalli Road",
+                "city": "Bengaluru",
+                "state": "Karnataka",
+                "country": "IND",
+                "area_code": "560103"
+              }
+            }
+          },
+          "end": {
+            "location": {
+              "id": "PL_663b43b55123b55984298e82",
+              "descriptor": {
+                "name": "Dailybee F&B payloads store"
+              },
+              "gps": "12.932463,77.685220",
+              "address": {
+                "locality": "Bellandur",
+                "city": "Bengaluru",
+                "area_code": "560103",
+                "state": "Karnataka"
+              }
+            }
+          },
           "tags": [
             {
               "code": "quote_trail",

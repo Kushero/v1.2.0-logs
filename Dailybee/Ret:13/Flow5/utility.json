@@ -1,0 +1,35 @@
+{
+  "success": false,
+  "response": {
+    "message": "Logs were not verified successfully",
+    "report": {
+      "on_cancel": {
+        "schemaErr0": "/message/order/fulfillments/1/start must have required property 'location'",
+        "schemaErr1": "/message/order/quote/ttl must match format \"duration\"",
+        "invalidItemID[SD_PL_66192927b64d471f1b337adc]": "Item ID [SD_PL_66192927b64d471f1b337adc] not present in items array",
+        "RTOfulfillment.start.location": "RTO fulfillment start location object is missing in on_cancel",
+        "RTOfulfillment.end": "RTO fulfillment end object  is missing in on_cancel",
+        "RTO.start.location/DeliveryFulfillment.end.location": "RTO fulfillment start or Delivery fulfillment end location is missing in on_cancel",
+        "RTO.end.location/DeliveryFulfillment.start.location": "RTO fulfillment end or Delivery fulfillment start location is missing in on_cancel"
+      },
+      "on_status_rto_delivered/disposed": {
+        "schemaErr0": "/message/order/fulfillments/1/start must have required property 'location'",
+        "schemaErr1": "/message/order/fulfillments/1/end must have required property 'location'",
+        "schemaErr2": "/message/order/quote/ttl must match format \"duration\"",
+        "invalidItemID[SD_PL_66192927b64d471f1b337adc]": "Item ID [SD_PL_66192927b64d471f1b337adc] not present in items array",
+        "RTOfulfillment.start.location": "RTO fulfillment start location object is missing in on_status_rto_delivered/disposed",
+        "rtoFFObj/end/time": "fulfillment type rto end/time should be present in /on_status_rto_delivered/disposed when state/desc/code is RTO-Initiated",
+        "RTOfulfillment.end.location": "RTO fulfillment end location object is missing in on_status_rto_delivered/disposed",
+        "message/order.fulfillments/0/end": "Mismatch occurred while comparing 'RTO' fulfillment object with on_status_rto_delivered/disposed on key 'end'",
+        "RTO.start.location/DeliveryFulfillment.end.location": "RTO fulfillment start or Delivery fulfillment end location is missing in on_status_rto_delivered/disposed",
+        "RTO.end.location/DeliveryFulfillment.start.location": "RTO fulfillment end or Delivery fulfillment start location is missing in on_status_rto_delivered/disposed"
+      }
+    },
+    "bpp_id": "ondc-pp-v2.dlyb.in",
+    "bap_id": "buyer-app-preprod-v2.ondc.org",
+    "domain": "ONDC:RET13",
+    "reportTimestamp": "2024-09-07T18:13:39.090Z"
+  },
+  "signature": "PgMuQacvPuwAs01IlkTZJzIJiAGXGiLPnJn6Mg/mqN8aIxZ9JC8OhTm4X3Lw+cFBgycb3F7s+fRctz5qOxkCDA==",
+  "signTimestamp": "2024-09-07T18:13:39.090Z"
+}

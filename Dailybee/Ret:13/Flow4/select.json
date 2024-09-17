@@ -1,0 +1,57 @@
+{
+  "context": {
+    "domain": "ONDC:RET13",
+    "country": "IND",
+    "city": "std:080",
+    "action": "select",
+    "core_version": "1.2.0",
+    "bap_id": "buyer-app-preprod-v2.ondc.org",
+    "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
+    "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
+    "transaction_id": "c2f04324-fe8e-43b1-a529-e216358e3a93",
+    "message_id": "6044b898-e283-4c30-97d6-77d798b3c520",
+    "timestamp": "2024-09-07T17:48:31.031Z",
+    "bpp_id": "ondc-pp-v2.dlyb.in",
+    "ttl": "PT30S"
+  },
+  "message": {
+    "order": {
+      "items": [
+        {
+          "id": "66192f997fb911dc1bf863c3",
+          "quantity": {
+            "count": 1
+          },
+          "location_id": "PL_66192927b64d471f1b337adc"
+        },
+        {
+          "id": "66192f997fb911dc1bf863c4",
+          "quantity": {
+            "count": 1
+          },
+          "location_id": "PL_66192927b64d471f1b337adc"
+        }
+      ],
+      "provider": {
+        "id": "66192927b64d471f1b337adc",
+        "locations": [
+          {
+            "id": "PL_66192927b64d471f1b337adc"
+          }
+        ]
+      },
+      "fulfillments": [
+        {
+          "end": {
+            "location": {
+              "gps": "12.931582,77.685340",
+              "address": {
+                "area_code": "560103"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
