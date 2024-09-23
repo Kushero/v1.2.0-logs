@@ -8,9 +8,9 @@
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "1b09956f-9d53-45fc-9bca-594c6d5c8e8d",
-    "message_id": "78ae6528-6fd4-49ac-9dba-3877e9efdd37",
-    "timestamp": "2024-09-17T09:14:31.828Z",
+    "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
+    "message_id": "3b537cdb-f352-48d1-b409-1aee48500ea6",
+    "timestamp": "2024-09-23T17:20:41.937Z",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "ttl": "PT30S"
   },
@@ -22,7 +22,18 @@
           "quantity": {
             "count": 1
           },
-          "location_id": "PL_663b43b55123b55984298e82"
+          "location_id": "PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "item"
+                }
+              ]
+            }
+          ]
         },
         {
           "id": "663b44b15123b55984298e83",
@@ -40,7 +51,64 @@
                 }
               ]
             }
-          ]
+          ],
+          "parent_item_id": "4mXeJly1UgHH"
+        },
+        {
+          "id": "663b47255123b55984298e92",
+          "quantity": {
+            "count": 1
+          },
+          "location_id": "PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "parent",
+              "list": [
+                {
+                  "code": "id",
+                  "value": "CG_135699"
+                }
+              ]
+            },
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "customization"
+                }
+              ]
+            }
+          ],
+          "parent_item_id": "4mXeJly1UgHH"
+        },
+        {
+          "id": "663bd14f5746e8a95b077845",
+          "quantity": {
+            "count": 1
+          },
+          "location_id": "PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "parent",
+              "list": [
+                {
+                  "code": "id",
+                  "value": "CG_135707"
+                }
+              ]
+            },
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "customization"
+                }
+              ]
+            }
+          ],
+          "parent_item_id": "4mXeJly1UgHH"
         }
       ],
       "provider": {
@@ -55,7 +123,7 @@
         {
           "end": {
             "location": {
-              "gps": "12.929673645000271,77.68327276421023",
+              "gps": "12.931582,77.685340",
               "address": {
                 "area_code": "560103"
               }

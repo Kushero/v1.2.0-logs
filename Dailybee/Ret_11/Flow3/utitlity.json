@@ -5,13 +5,17 @@
     "report": {
       "on_search_full_catalog_refresh": {
         "message/catalog/bpp/providers0/categories/items": "No items are mapped with the given category_id 00000CM76685 in providers0/items"
+      },
+      "select_out_of_stock": {
+        "item2customization_id": "/message/order/items/tags/customization/value in item: 663b47255123b55984298e92 should be one of the customizations id mapped in on_search",
+        "item3customization_id": "/message/order/items/tags/customization/value in item: 663bd14f5746e8a95b077845 should be one of the customizations id mapped in on_search"
       }
     },
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "domain": "ONDC:RET11",
-    "reportTimestamp": "2024-09-17T12:57:57.946Z"
+    "reportTimestamp": "2024-09-23T19:01:16.245Z"
   },
-  "signature": "3c9Uca4811lRj+7Ch/JCH270CHxYcft/T4/bMqRFqJ6T38so1DBnSRzEarD+ItlfTYxKat9Ry14MzdxPgIqjBw==",
-  "signTimestamp": "2024-09-17T12:57:57.946Z"
+  "signature": "ttgEJz2apQEloPLuzklBohNWVXQODHevVo26CIavMhrkmtFbpG+xc4eJVX1oUMMpiFH7qPbZQuBlq3FOV44ZAw==",
+  "signTimestamp": "2024-09-23T19:01:16.245Z"
 }
