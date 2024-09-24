@@ -3,15 +3,15 @@
     "domain": "ONDC:RET11",
     "country": "IND",
     "city": "std:080",
-    "action": "on_cancel",
+    "action": "on_status",
     "core_version": "1.2.0",
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
     "transaction_id": "853b1c8e-e433-4ae8-b9e7-2d968d360f40",
-    "message_id": "0fe27492-8ad5-4071-969b-0fb56341dd65",
-    "timestamp": "2024-09-24T04:44:53.203Z",
+    "message_id": "18ea7539-f53d-4dd0-93fa-33822958310f",
+    "timestamp": "2024-09-24T04:51:23.943Z",
     "ttl": "PT30S"
   },
   "message": {
@@ -221,7 +221,7 @@
           "type": "RTO",
           "state": {
             "descriptor": {
-              "code": "RTO-Initiated"
+              "code": "RTO-Delivered"
             }
           },
           "tracking": false,
@@ -250,6 +250,13 @@
             }
           },
           "end": {
+            "time": {
+              "timestamp": "2024-09-24T04:51:23.943Z"
+            },
+            "contact": {
+              "phone": "7880500880",
+              "email": "help@dailybee.in"
+            },
             "location": {
               "id": "PL_663b43b55123b55984298e82",
               "descriptor": {
@@ -262,10 +269,6 @@
                 "area_code": "560103",
                 "state": "Karnataka"
               }
-            },
-            "contact": {
-              "phone": "7880500880",
-              "email": "help@dailybee.in"
             }
           },
           "tags": [
@@ -902,7 +905,7 @@
         ]
       },
       "created_at": "2024-09-24T04:41:18.579Z",
-      "updated_at": "2024-09-24T04:44:53.203Z"
+      "updated_at": "2024-09-24T04:51:23.943Z"
     }
   }
 }

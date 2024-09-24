@@ -8,9 +8,9 @@
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "9ce112ca-cc59-46cb-9533-bfb3e75189ac",
-    "message_id": "da7bac5b-0295-4bb7-b586-6a4898c5d72a",
-    "timestamp": "2024-09-17T15:59:37.961Z",
+    "transaction_id": "853b1c8e-e433-4ae8-b9e7-2d968d360f40",
+    "message_id": "2cca83da-b42c-453f-83fc-60ec81f9da31",
+    "timestamp": "2024-09-24T04:40:48.810Z",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "ttl": "PT30S"
   },
@@ -42,7 +42,95 @@
               ]
             }
           ],
+          "parent_item_id": "HEi0+x2cQ/9T",
           "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
+        },
+        {
+          "id": "663b47255123b55984298e92",
+          "quantity": {
+            "count": 1
+          },
+          "location_id": "PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "parent",
+              "list": [
+                {
+                  "code": "id",
+                  "value": "CG_135699"
+                }
+              ]
+            },
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "customization"
+                }
+              ]
+            }
+          ],
+          "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+          "parent_item_id": "HEi0+x2cQ/9T"
+        },
+        {
+          "id": "663bd15b5746e8a95b077846",
+          "quantity": {
+            "count": 1
+          },
+          "location_id": "PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "parent",
+              "list": [
+                {
+                  "code": "id",
+                  "value": "CG_135707"
+                }
+              ]
+            },
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "customization"
+                }
+              ]
+            }
+          ],
+          "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+          "parent_item_id": "HEi0+x2cQ/9T"
+        },
+        {
+          "id": "663bd14f5746e8a95b077845",
+          "quantity": {
+            "count": 1
+          },
+          "location_id": "PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "parent",
+              "list": [
+                {
+                  "code": "id",
+                  "value": "CG_135707"
+                }
+              ]
+            },
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "customization"
+                }
+              ]
+            }
+          ],
+          "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+          "parent_item_id": "HEi0+x2cQ/9T"
         },
         {
           "id": "663b452a5123b55984298e8e",
@@ -50,24 +138,35 @@
             "count": 1
           },
           "location_id": "PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "item"
+                }
+              ]
+            }
+          ],
           "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
         }
       ],
       "billing": {
         "address": {
-          "building": "Novotel Room no 101",
+          "building": "shilpa tech park",
           "city": "Bengaluru",
           "state": "Karnataka",
           "country": "IND",
           "area_code": "560103",
-          "locality": "Outer Ring Road",
-          "name": "Santosh Novotel"
+          "locality": "Devarabisanahalli Road",
+          "name": "integrations-hithesh"
         },
-        "phone": "9999999999",
-        "name": "Santosh Novotel",
-        "email": "santosh@gmail.com",
-        "created_at": "2024-09-17T15:59:37.961Z",
-        "updated_at": "2024-09-17T15:59:37.961Z"
+        "phone": "7337451108",
+        "name": "integrations-hithesh",
+        "email": "hitheshlade1214@gmail.com",
+        "created_at": "2024-09-24T04:40:48.810Z",
+        "updated_at": "2024-09-24T04:40:48.810Z"
       },
       "fulfillments": [
         {
@@ -75,19 +174,19 @@
           "type": "Delivery",
           "end": {
             "contact": {
-              "email": "santosh@gmail.com",
-              "phone": "9999999999"
+              "email": "hitheshlade1214@gmail.com",
+              "phone": "7337451108"
             },
             "location": {
-              "gps": "12.929673645000271,77.68327276421023",
+              "gps": "12.931582,77.685340",
               "address": {
-                "building": "Novotel Room no 101",
+                "building": "shilpa tech park",
                 "city": "Bengaluru",
                 "state": "Karnataka",
                 "country": "IND",
                 "area_code": "560103",
-                "locality": "Outer Ring Road",
-                "name": "Santosh Novotel"
+                "locality": "Devarabisanahalli Road",
+                "name": "integrations-hithesh"
               }
             }
           }

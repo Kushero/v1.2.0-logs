@@ -9,29 +9,29 @@
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "901756c9-dd49-48d6-99c5-fbceb834c34d",
-    "message_id": "30ae4bda-e359-4a6d-9ad3-70f3e3b16e6c",
-    "timestamp": "2024-09-17T13:59:13.568Z"
+    "transaction_id": "fad997a0-cfda-45fe-baa9-ea467b8097a5",
+    "message_id": "c1a7d2e3-6f92-4015-be9e-e18908f054b1",
+    "timestamp": "2024-09-24T03:38:50.692Z"
   },
   "message": {
     "order": {
-      "id": "2024-09-17-233896",
+      "id": "2024-09-24-742772",
       "state": "Created",
       "billing": {
         "address": {
-          "name": "Santosh Novotel",
-          "building": "Novotel Room no 101",
-          "locality": "Outer Ring Road",
+          "name": "integrations-hithesh",
+          "building": "shilpa tech park",
+          "locality": "Devarabisanahalli Road",
           "city": "Bengaluru",
           "state": "Karnataka",
           "country": "IND",
           "area_code": "560103"
         },
-        "phone": "9999999999",
-        "name": "Santosh Novotel",
-        "email": "santosh@gmail.com",
-        "created_at": "2024-09-17T13:58:46.551Z",
-        "updated_at": "2024-09-17T13:58:46.551Z"
+        "phone": "7337451108",
+        "name": "integrations-hithesh",
+        "email": "hitheshlade1214@gmail.com",
+        "created_at": "2024-09-24T03:38:27.076Z",
+        "updated_at": "2024-09-24T03:38:27.076Z"
       },
       "fulfillments": [
         {
@@ -59,12 +59,6 @@
                 "state": "Karnataka"
               }
             },
-            "time": {
-              "range": {
-                "end": "2024-09-17T14:59:13.569Z",
-                "start": "2024-09-17T14:29:13.569Z"
-              }
-            },
             "contact": {
               "phone": "7880500880",
               "email": "help@dailybee.in"
@@ -72,28 +66,22 @@
           },
           "end": {
             "contact": {
-              "phone": "9999999999",
-              "email": "santosh@gmail.com"
+              "phone": "7337451108",
+              "email": "hitheshlade1214@gmail.com"
             },
             "person": {
-              "name": "Santosh Novotel"
+              "name": "integrations-hithesh"
             },
             "location": {
-              "gps": "12.929673645000271,77.68327276421023",
+              "gps": "12.931582,77.685340",
               "address": {
-                "name": "Santosh Novotel",
-                "building": "Novotel Room no 101",
-                "locality": "Outer Ring Road",
+                "name": "integrations-hithesh",
+                "building": "shilpa tech park",
+                "locality": "Devarabisanahalli Road",
                 "city": "Bengaluru",
                 "state": "Karnataka",
                 "country": "IND",
                 "area_code": "560103"
-              }
-            },
-            "time": {
-              "range": {
-                "end": "2024-09-18T00:29:13.569Z",
-                "start": "2024-09-17T23:59:13.569Z"
               }
             }
           }
@@ -116,23 +104,91 @@
                 }
               ]
             }
-          ]
+          ],
+          "parent_item_id": "4mXeJly1UgHH"
+        },
+        {
+          "id": "663b47255123b55984298e92",
+          "quantity": {
+            "count": 1
+          },
+          "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "parent",
+              "list": [
+                {
+                  "code": "id",
+                  "value": "CG_135699"
+                }
+              ]
+            },
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "customization"
+                }
+              ]
+            }
+          ],
+          "parent_item_id": "4mXeJly1UgHH"
+        },
+        {
+          "id": "663bd14f5746e8a95b077845",
+          "quantity": {
+            "count": 1
+          },
+          "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "parent",
+              "list": [
+                {
+                  "code": "id",
+                  "value": "CG_135707"
+                }
+              ]
+            },
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "customization"
+                }
+              ]
+            }
+          ],
+          "parent_item_id": "4mXeJly1UgHH"
         },
         {
           "id": "663b452a5123b55984298e8e",
           "quantity": {
             "count": 1
           },
-          "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
+          "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+          "tags": [
+            {
+              "code": "type",
+              "list": [
+                {
+                  "code": "type",
+                  "value": "item"
+                }
+              ]
+            }
+          ]
         }
       ],
       "payment": {
         "uri": "https://razorpay.com/",
         "tl_method": "http/get",
         "params": {
-          "amount": "539.95",
+          "amount": "571.45",
           "currency": "INR",
-          "transaction_id": "order_OyG5Fgbma9cWu3"
+          "transaction_id": "order_P0rFohvEb4SEYn"
         },
         "status": "PAID",
         "type": "ON-ORDER",
@@ -164,7 +220,7 @@
       "quote": {
         "price": {
           "currency": "INR",
-          "value": "539.95"
+          "value": "571.45"
         },
         "breakup": [
           {
@@ -177,7 +233,19 @@
               "price": {
                 "currency": "INR",
                 "value": "100.00"
-              }
+              },
+              "parent_item_id": "4mXeJly1UgHH",
+              "tags": [
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "item"
+                    }
+                  ]
+                }
+              ]
             },
             "@ondc/org/item_id": "663b44b15123b55984298e83",
             "@ondc/org/item_quantity": {
@@ -192,6 +260,162 @@
             "price": {
               "currency": "INR",
               "value": "5.00"
+            },
+            "item": {
+              "parent_item_id": "4mXeJly1UgHH",
+              "tags": [
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "item"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Hazelnut Mocha",
+            "price": {
+              "currency": "INR",
+              "value": "10.00"
+            },
+            "item": {
+              "price": {
+                "currency": "INR",
+                "value": "10.00"
+              },
+              "parent_item_id": "4mXeJly1UgHH",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "CG_135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ]
+            },
+            "@ondc/org/item_id": "663b47255123b55984298e92",
+            "@ondc/org/item_quantity": {
+              "count": 1
+            },
+            "@ondc/org/title_type": "item"
+          },
+          {
+            "@ondc/org/item_id": "663b47255123b55984298e92",
+            "title": "Tax",
+            "@ondc/org/title_type": "tax",
+            "price": {
+              "currency": "INR",
+              "value": "0.50"
+            },
+            "item": {
+              "parent_item_id": "4mXeJly1UgHH",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "CG_135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Jalapenos",
+            "price": {
+              "currency": "INR",
+              "value": "20.00"
+            },
+            "item": {
+              "price": {
+                "currency": "INR",
+                "value": "20.00"
+              },
+              "parent_item_id": "4mXeJly1UgHH",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "CG_135707"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ]
+            },
+            "@ondc/org/item_id": "663bd14f5746e8a95b077845",
+            "@ondc/org/item_quantity": {
+              "count": 1
+            },
+            "@ondc/org/title_type": "item"
+          },
+          {
+            "@ondc/org/item_id": "663bd14f5746e8a95b077845",
+            "title": "Tax",
+            "@ondc/org/title_type": "tax",
+            "price": {
+              "currency": "INR",
+              "value": "1.00"
+            },
+            "item": {
+              "parent_item_id": "4mXeJly1UgHH",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "CG_135707"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ]
             }
           },
           {
@@ -261,8 +485,8 @@
           ]
         }
       ],
-      "created_at": "2024-09-17T13:59:13.264Z",
-      "updated_at": "2024-09-17T13:59:13.568Z"
+      "created_at": "2024-09-24T03:38:50.438Z",
+      "updated_at": "2024-09-24T03:38:50.692Z"
     }
   }
 }

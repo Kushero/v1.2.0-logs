@@ -59,12 +59,6 @@
                 "state": "Karnataka"
               }
             },
-            "time": {
-              "range": {
-                "end": "2024-09-23T18:22:03.204Z",
-                "start": "2024-09-23T17:52:03.204Z"
-              }
-            },
             "contact": {
               "phone": "7880500880",
               "email": "help@dailybee.in"
@@ -88,12 +82,6 @@
                 "state": "Karnataka",
                 "country": "IND",
                 "area_code": "560103"
-              }
-            },
-            "time": {
-              "range": {
-                "end": "2024-09-24T03:52:03.204Z",
-                "start": "2024-09-24T03:22:03.204Z"
               }
             }
           }

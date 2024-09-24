@@ -5,13 +5,33 @@
     "report": {
       "on_search_full_catalog_refresh": {
         "message/catalog/bpp/providers0/categories/items": "No items are mapped with the given category_id 00000CM76685 in providers0/items"
+      },
+      "select": {
+        "item1customization_id": "/message/order/items/tags/customization/value in item: 663b47255123b55984298e92 should be one of the customizations id mapped in on_search",
+        "item2customization_id": "/message/order/items/tags/customization/value in item: 663bd14f5746e8a95b077845 should be one of the customizations id mapped in on_search"
+      },
+      "init": {
+        "item1tags.parent_id": "items[1].tags.parent_id mismatches for Item 663b47255123b55984298e92 in /on_search and /init",
+        "item2tags.parent_id": "items[2].tags.parent_id mismatches for Item 663bd14f5746e8a95b077845 in /on_search and /init"
+      },
+      "on_init": {
+        "item1tags.parent_id": "items[1].tags.parent_id mismatches for Item 663b47255123b55984298e92 in /select and /init",
+        "item2tags.parent_id": "items[2].tags.parent_id mismatches for Item 663bd14f5746e8a95b077845 in /select and /init"
+      },
+      "confirm": {
+        "item1tags.parent_id": "items[1].tags.parent_id mismatches for Item 663b47255123b55984298e92 in /select and /confirm",
+        "item2tags.parent_id": "items[2].tags.parent_id mismatches for Item 663bd14f5746e8a95b077845 in /select and /confirm"
+      },
+      "on_confirm": {
+        "item1tags.parent_id": "items[1].tags.parent_id mismatches for Item 663b47255123b55984298e92 in /select and /init",
+        "item2tags.parent_id": "items[2].tags.parent_id mismatches for Item 663bd14f5746e8a95b077845 in /select and /init"
       }
     },
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "domain": "ONDC:RET11",
-    "reportTimestamp": "2024-09-17T14:10:37.190Z"
+    "reportTimestamp": "2024-09-24T04:15:47.567Z"
   },
-  "signature": "N51oQr0yXlIMDC20KaqjPbLqumlInFSg/ossxlltgfGzshzxVPSNRFoieeo0m27qGC59Ih0WqAG9c5njCqIhDg==",
-  "signTimestamp": "2024-09-17T14:10:37.190Z"
+  "signature": "1j6Kj/qO+B5JBN49/y2oJs2dorgivtNCIYA5FVSBXBjwniq73b7lUzeoUBiR4jjizVeYed7ALxuOLDf5LXtoDQ==",
+  "signTimestamp": "2024-09-24T04:15:47.567Z"
 }
