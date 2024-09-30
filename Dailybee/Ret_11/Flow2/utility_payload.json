@@ -2187,18 +2187,7 @@
               "quantity": {
                 "count": 2
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -2467,18 +2456,7 @@
               "quantity": {
                 "count": 2
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -2772,18 +2750,7 @@
               "quantity": {
                 "count": 2
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -3083,18 +3050,7 @@
               "quantity": {
                 "count": 2
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -3395,18 +3351,7 @@
               "quantity": {
                 "count": 2
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {

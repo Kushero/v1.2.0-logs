@@ -1085,33 +1085,15 @@
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "3b537cdb-f352-48d1-b409-1aee48500ea6",
-        "timestamp": "2024-09-23T17:20:41.937Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "7b00c423-fee9-4f66-a474-3e13c3450a24",
+        "timestamp": "2024-09-24T07:45:32.104Z",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
           "items": [
-            {
-              "id": "663b452a5123b55984298e8e",
-              "quantity": {
-                "count": 1
-              },
-              "location_id": "PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
-            },
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
@@ -1129,7 +1111,7 @@
                   ]
                 }
               ],
-              "parent_item_id": "4mXeJly1UgHH"
+              "parent_item_id": "dHq9/jNPuPp1"
             },
             {
               "id": "663b47255123b55984298e92",
@@ -1143,7 +1125,7 @@
                   "list": [
                     {
                       "code": "id",
-                      "value": "CG_135699"
+                      "value": "0000CG135699"
                     }
                   ]
                 },
@@ -1157,35 +1139,14 @@
                   ]
                 }
               ],
-              "parent_item_id": "4mXeJly1UgHH"
+              "parent_item_id": "dHq9/jNPuPp1"
             },
             {
-              "id": "663bd14f5746e8a95b077845",
+              "id": "663b452a5123b55984298e8e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
-              "location_id": "PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "parent",
-                  "list": [
-                    {
-                      "code": "id",
-                      "value": "CG_135707"
-                    }
-                  ]
-                },
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "customization"
-                    }
-                  ]
-                }
-              ],
-              "parent_item_id": "4mXeJly1UgHH"
+              "location_id": "PL_663b43b55123b55984298e82"
             }
           ],
           "provider": {
@@ -1200,7 +1161,7 @@
             {
               "end": {
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
                     "area_code": "560103"
                   }
@@ -1222,9 +1183,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "3b537cdb-f352-48d1-b409-1aee48500ea6",
-        "timestamp": "2024-09-23T17:20:42.210Z"
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "7b00c423-fee9-4f66-a474-3e13c3450a24",
+        "timestamp": "2024-09-24T07:45:32.346Z"
       },
       "message": {
         "order": {
@@ -1238,24 +1199,9 @@
           },
           "items": [
             {
-              "id": "663b452a5123b55984298e8e",
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
               "id": "663b44b15123b55984298e83",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "4mXeJly1UgHH",
+              "parent_item_id": "dHq9/jNPuPp1",
               "tags": [
                 {
                   "code": "type",
@@ -1271,14 +1217,14 @@
             {
               "id": "663b47255123b55984298e92",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "4mXeJly1UgHH",
+              "parent_item_id": "dHq9/jNPuPp1",
               "tags": [
                 {
                   "code": "parent",
                   "list": [
                     {
                       "code": "id",
-                      "value": "CG_135699"
+                      "value": "0000CG135699"
                     }
                   ]
                 },
@@ -1294,29 +1240,8 @@
               ]
             },
             {
-              "id": "663bd14f5746e8a95b077845",
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "4mXeJly1UgHH",
-              "tags": [
-                {
-                  "code": "parent",
-                  "list": [
-                    {
-                      "code": "id",
-                      "value": "CG_135707"
-                    }
-                  ]
-                },
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "customization"
-                    }
-                  ]
-                }
-              ]
+              "id": "663b452a5123b55984298e8e",
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "fulfillments": [
@@ -1337,9 +1262,149 @@
           "quote": {
             "price": {
               "currency": "INR",
-              "value": "466.45"
+              "value": "445.45"
             },
             "breakup": [
+              {
+                "title": "Veg Loaded Pizza",
+                "price": {
+                  "currency": "INR",
+                  "value": "0.00"
+                },
+                "item": {
+                  "price": {
+                    "currency": "INR",
+                    "value": "100.00"
+                  },
+                  "quantity": {
+                    "available": {
+                      "count": "0"
+                    },
+                    "maximum": {
+                      "count": "15"
+                    }
+                  },
+                  "parent_item_id": "dHq9/jNPuPp1",
+                  "tags": [
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "item"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "@ondc/org/item_id": "663b44b15123b55984298e83",
+                "@ondc/org/item_quantity": {
+                  "count": 0
+                },
+                "@ondc/org/title_type": "item"
+              },
+              {
+                "@ondc/org/item_id": "663b44b15123b55984298e83",
+                "title": "Tax",
+                "@ondc/org/title_type": "tax",
+                "price": {
+                  "currency": "INR",
+                  "value": "0.00"
+                },
+                "item": {
+                  "parent_item_id": "dHq9/jNPuPp1",
+                  "tags": [
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "item"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Hazelnut Mocha",
+                "price": {
+                  "currency": "INR",
+                  "value": "10.00"
+                },
+                "item": {
+                  "price": {
+                    "currency": "INR",
+                    "value": "10.00"
+                  },
+                  "quantity": {
+                    "available": {
+                      "count": "99"
+                    },
+                    "maximum": {
+                      "count": "15"
+                    }
+                  },
+                  "parent_item_id": "dHq9/jNPuPp1",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "@ondc/org/item_id": "663b47255123b55984298e92",
+                "@ondc/org/item_quantity": {
+                  "count": 1
+                },
+                "@ondc/org/title_type": "item"
+              },
+              {
+                "@ondc/org/item_id": "663b47255123b55984298e92",
+                "title": "Tax",
+                "@ondc/org/title_type": "tax",
+                "price": {
+                  "currency": "INR",
+                  "value": "0.50"
+                },
+                "item": {
+                  "parent_item_id": "dHq9/jNPuPp1",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
               {
                 "title": "Chicken Fillet Nugget Snack",
                 "price": {
@@ -1376,225 +1441,6 @@
                 }
               },
               {
-                "title": "Veg Loaded Pizza",
-                "price": {
-                  "currency": "INR",
-                  "value": "0.00"
-                },
-                "item": {
-                  "price": {
-                    "currency": "INR",
-                    "value": "100.00"
-                  },
-                  "quantity": {
-                    "available": {
-                      "count": "0"
-                    },
-                    "maximum": {
-                      "count": "15"
-                    }
-                  },
-                  "parent_item_id": "4mXeJly1UgHH",
-                  "tags": [
-                    {
-                      "code": "type",
-                      "list": [
-                        {
-                          "code": "type",
-                          "value": "item"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "@ondc/org/item_id": "663b44b15123b55984298e83",
-                "@ondc/org/item_quantity": {
-                  "count": 0
-                },
-                "@ondc/org/title_type": "item"
-              },
-              {
-                "@ondc/org/item_id": "663b44b15123b55984298e83",
-                "title": "Tax",
-                "@ondc/org/title_type": "tax",
-                "price": {
-                  "currency": "INR",
-                  "value": "0.00"
-                },
-                "item": {
-                  "parent_item_id": "4mXeJly1UgHH",
-                  "tags": [
-                    {
-                      "code": "type",
-                      "list": [
-                        {
-                          "code": "type",
-                          "value": "item"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "title": "Hazelnut Mocha",
-                "price": {
-                  "currency": "INR",
-                  "value": "10.00"
-                },
-                "item": {
-                  "price": {
-                    "currency": "INR",
-                    "value": "10.00"
-                  },
-                  "quantity": {
-                    "available": {
-                      "count": "99"
-                    },
-                    "maximum": {
-                      "count": "15"
-                    }
-                  },
-                  "parent_item_id": "4mXeJly1UgHH",
-                  "tags": [
-                    {
-                      "code": "parent",
-                      "list": [
-                        {
-                          "code": "id",
-                          "value": "CG_135699"
-                        }
-                      ]
-                    },
-                    {
-                      "code": "type",
-                      "list": [
-                        {
-                          "code": "type",
-                          "value": "customization"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "@ondc/org/item_id": "663b47255123b55984298e92",
-                "@ondc/org/item_quantity": {
-                  "count": 1
-                },
-                "@ondc/org/title_type": "item"
-              },
-              {
-                "@ondc/org/item_id": "663b47255123b55984298e92",
-                "title": "Tax",
-                "@ondc/org/title_type": "tax",
-                "price": {
-                  "currency": "INR",
-                  "value": "0.50"
-                },
-                "item": {
-                  "parent_item_id": "4mXeJly1UgHH",
-                  "tags": [
-                    {
-                      "code": "parent",
-                      "list": [
-                        {
-                          "code": "id",
-                          "value": "CG_135699"
-                        }
-                      ]
-                    },
-                    {
-                      "code": "type",
-                      "list": [
-                        {
-                          "code": "type",
-                          "value": "customization"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "title": "Jalapenos",
-                "price": {
-                  "currency": "INR",
-                  "value": "20.00"
-                },
-                "item": {
-                  "price": {
-                    "currency": "INR",
-                    "value": "20.00"
-                  },
-                  "quantity": {
-                    "available": {
-                      "count": "99"
-                    },
-                    "maximum": {
-                      "count": "15"
-                    }
-                  },
-                  "parent_item_id": "4mXeJly1UgHH",
-                  "tags": [
-                    {
-                      "code": "parent",
-                      "list": [
-                        {
-                          "code": "id",
-                          "value": "CG_135707"
-                        }
-                      ]
-                    },
-                    {
-                      "code": "type",
-                      "list": [
-                        {
-                          "code": "type",
-                          "value": "customization"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "@ondc/org/item_id": "663bd14f5746e8a95b077845",
-                "@ondc/org/item_quantity": {
-                  "count": 1
-                },
-                "@ondc/org/title_type": "item"
-              },
-              {
-                "@ondc/org/item_id": "663bd14f5746e8a95b077845",
-                "title": "Tax",
-                "@ondc/org/title_type": "tax",
-                "price": {
-                  "currency": "INR",
-                  "value": "1.00"
-                },
-                "item": {
-                  "parent_item_id": "4mXeJly1UgHH",
-                  "tags": [
-                    {
-                      "code": "parent",
-                      "list": [
-                        {
-                          "code": "id",
-                          "value": "CG_135707"
-                        }
-                      ]
-                    },
-                    {
-                      "code": "type",
-                      "list": [
-                        {
-                          "code": "type",
-                          "value": "customization"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
                 "@ondc/org/item_id": "SD_PL_663b43b55123b55984298e82",
                 "title": "Delivery charges",
                 "@ondc/org/title_type": "delivery",
@@ -1611,7 +1457,7 @@
       "error": {
         "type": "DOMAIN-ERROR",
         "code": "40002",
-        "message": "[{\"dynamic_item_id\": \"4mXeJly1UgHH\",\"item_id\":\"663b44b15123b55984298e83\",\"error\":\"40002\"}]"
+        "message": "[{\"dynamic_item_id\":\"dHq9/jNPuPp1\",\"item_id\":\"663b44b15123b55984298e83\",\"error\":\"40002\"},{\"dynamic_item_id\":\"dHq9/jNPuPp1\",\"customization_id\":\"663b47255123b55984298e92\",\"customization_group_id\":\"0000CG135699\",\"error\":\"40002\"},{\"item_id\":\"663b452a5123b55984298e8e\",\"error\":\"40002\"}]"
       }
     },
     "select": {
@@ -1624,9 +1470,9 @@
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "c1aafc0a-2820-4dd4-8668-d767f4f904e2",
-        "timestamp": "2024-09-23T17:21:02.921Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "13cca810-4e4c-41f6-81fc-3a8bf15b27b5",
+        "timestamp": "2024-09-24T07:45:43.175Z",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "ttl": "PT30S"
       },
@@ -1638,18 +1484,7 @@
               "quantity": {
                 "count": 1
               },
-              "location_id": "PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "location_id": "PL_663b43b55123b55984298e82"
             }
           ],
           "provider": {
@@ -1664,7 +1499,7 @@
             {
               "end": {
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
                     "area_code": "560103"
                   }
@@ -1686,9 +1521,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "c1aafc0a-2820-4dd4-8668-d767f4f904e2",
-        "timestamp": "2024-09-23T17:21:03.833Z"
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "13cca810-4e4c-41f6-81fc-3a8bf15b27b5",
+        "timestamp": "2024-09-24T07:45:43.383Z"
       },
       "message": {
         "order": {
@@ -1703,18 +1538,7 @@
           "items": [
             {
               "id": "663b452a5123b55984298e8e",
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "fulfillments": [
@@ -1798,9 +1622,9 @@
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "56d77c2b-575b-4989-8c2f-b3019122a170",
-        "timestamp": "2024-09-23T17:21:16.219Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "3360358d-4a62-4985-807d-e39897e0822f",
+        "timestamp": "2024-09-24T07:46:23.924Z",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "ttl": "PT30S"
       },
@@ -1821,35 +1645,24 @@
                 "count": 1
               },
               "location_id": "PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "billing": {
             "address": {
-              "building": "shilpa tech park",
+              "building": "Novotel Room no 101",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103",
-              "locality": "Devarabisanahalli Road",
-              "name": "integrations-hithesh"
+              "locality": "Outer Ring Road",
+              "name": "Santosh Novotel"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "fulfillments": [
             {
@@ -1857,19 +1670,19 @@
               "type": "Delivery",
               "end": {
                 "contact": {
-                  "email": "hitheshlade1214@gmail.com",
-                  "phone": "7337451108"
+                  "email": "santosh@gmail.com",
+                  "phone": "9999999999"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "building": "shilpa tech park",
+                    "building": "Novotel Room no 101",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
                     "area_code": "560103",
-                    "locality": "Devarabisanahalli Road",
-                    "name": "integrations-hithesh"
+                    "locality": "Outer Ring Road",
+                    "name": "Santosh Novotel"
                   }
                 }
               }
@@ -1889,9 +1702,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "56d77c2b-575b-4989-8c2f-b3019122a170",
-        "timestamp": "2024-09-23T17:21:16.404Z"
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "3360358d-4a62-4985-807d-e39897e0822f",
+        "timestamp": "2024-09-24T07:46:24.094Z"
       },
       "message": {
         "order": {
@@ -1902,35 +1715,24 @@
                 "count": 1
               },
               "location_id": "PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "billing": {
             "address": {
-              "building": "shilpa tech park",
+              "building": "Novotel Room no 101",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103",
-              "locality": "Devarabisanahalli Road",
-              "name": "integrations-hithesh"
+              "locality": "Outer Ring Road",
+              "name": "Santosh Novotel"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "fulfillments": [
             {
@@ -1938,19 +1740,19 @@
               "type": "Delivery",
               "end": {
                 "contact": {
-                  "email": "hitheshlade1214@gmail.com",
-                  "phone": "7337451108"
+                  "email": "santosh@gmail.com",
+                  "phone": "9999999999"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "building": "shilpa tech park",
+                    "building": "Novotel Room no 101",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
                     "area_code": "560103",
-                    "locality": "Devarabisanahalli Road",
-                    "name": "integrations-hithesh"
+                    "locality": "Outer Ring Road",
+                    "name": "Santosh Novotel"
                   }
                 }
               },
@@ -2055,31 +1857,31 @@
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "250cec00-7ffd-47d2-9912-1b72da5d372d",
-        "timestamp": "2024-09-23T17:22:02.973Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "24647c63-129e-4215-ab0a-79fc762caf13",
+        "timestamp": "2024-09-24T07:47:02.124Z",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
-          "id": "2024-09-23-870766",
+          "id": "2024-09-24-132159",
           "state": "Created",
           "billing": {
             "address": {
-              "name": "integrations-hithesh",
-              "building": "shilpa tech park",
-              "locality": "Devarabisanahalli Road",
+              "name": "Santosh Novotel",
+              "building": "Novotel Room no 101",
+              "locality": "Outer Ring Road",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "items": [
             {
@@ -2087,18 +1889,7 @@
               "quantity": {
                 "count": 1
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "provider": {
@@ -2116,18 +1907,18 @@
               "tracking": true,
               "end": {
                 "contact": {
-                  "email": "hitheshlade1214@gmail.com",
-                  "phone": "7337451108"
+                  "email": "santosh@gmail.com",
+                  "phone": "9999999999"
                 },
                 "person": {
-                  "name": "integrations-hithesh"
+                  "name": "Santosh Novotel"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "name": "integrations-hithesh",
-                    "building": "shilpa tech park",
-                    "locality": "Devarabisanahalli Road",
+                    "name": "Santosh Novotel",
+                    "building": "Novotel Room no 101",
+                    "locality": "Outer Ring Road",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
@@ -2144,7 +1935,7 @@
             "params": {
               "amount": "434.95",
               "currency": "INR",
-              "transaction_id": "order_P0gjxSUqeW0pva"
+              "transaction_id": "order_P0vTjdanROT1T1"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -2234,8 +2025,8 @@
               ]
             }
           ],
-          "created_at": "2024-09-23T17:22:02.973Z",
-          "updated_at": "2024-09-23T17:22:02.973Z"
+          "created_at": "2024-09-24T07:47:02.124Z",
+          "updated_at": "2024-09-24T07:47:02.124Z"
         }
       }
     },
@@ -2250,29 +2041,29 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "250cec00-7ffd-47d2-9912-1b72da5d372d",
-        "timestamp": "2024-09-23T17:22:03.204Z"
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "24647c63-129e-4215-ab0a-79fc762caf13",
+        "timestamp": "2024-09-24T07:47:02.355Z"
       },
       "message": {
         "order": {
-          "id": "2024-09-23-870766",
+          "id": "2024-09-24-132159",
           "state": "Created",
           "billing": {
             "address": {
-              "name": "integrations-hithesh",
-              "building": "shilpa tech park",
-              "locality": "Devarabisanahalli Road",
+              "name": "Santosh Novotel",
+              "building": "Novotel Room no 101",
+              "locality": "Outer Ring Road",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "fulfillments": [
             {
@@ -2307,18 +2098,18 @@
               },
               "end": {
                 "contact": {
-                  "phone": "7337451108",
-                  "email": "hitheshlade1214@gmail.com"
+                  "phone": "9999999999",
+                  "email": "santosh@gmail.com"
                 },
                 "person": {
-                  "name": "integrations-hithesh"
+                  "name": "Santosh Novotel"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "name": "integrations-hithesh",
-                    "building": "shilpa tech park",
-                    "locality": "Devarabisanahalli Road",
+                    "name": "Santosh Novotel",
+                    "building": "Novotel Room no 101",
+                    "locality": "Outer Ring Road",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
@@ -2334,18 +2125,7 @@
               "quantity": {
                 "count": 1
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -2354,7 +2134,7 @@
             "params": {
               "amount": "434.95",
               "currency": "INR",
-              "transaction_id": "order_P0gjxSUqeW0pva"
+              "transaction_id": "order_P0vTjdanROT1T1"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -2456,8 +2236,8 @@
               ]
             }
           ],
-          "created_at": "2024-09-23T17:22:02.973Z",
-          "updated_at": "2024-09-23T17:22:03.204Z"
+          "created_at": "2024-09-24T07:47:02.124Z",
+          "updated_at": "2024-09-24T07:47:02.355Z"
         }
       }
     },
@@ -2472,30 +2252,30 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "52ce8eef-10ba-486b-badb-a5acaebeae14",
-        "timestamp": "2024-09-23T17:27:05.339Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "20ee4501-7fb3-4fe1-942e-ef71968b1ea5",
+        "timestamp": "2024-09-24T07:48:37.761Z",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
-          "id": "2024-09-23-870766",
+          "id": "2024-09-24-132159",
           "state": "Accepted",
           "billing": {
             "address": {
-              "name": "integrations-hithesh",
-              "building": "shilpa tech park",
-              "locality": "Devarabisanahalli Road",
+              "name": "Santosh Novotel",
+              "building": "Novotel Room no 101",
+              "locality": "Outer Ring Road",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "fulfillments": [
             {
@@ -2525,8 +2305,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-23T18:22:03.204Z",
-                    "start": "2024-09-23T17:52:03.204Z"
+                    "end": "2024-09-24T08:47:02.355Z",
+                    "start": "2024-09-24T08:17:02.355Z"
                   }
                 },
                 "contact": {
@@ -2536,18 +2316,18 @@
               },
               "end": {
                 "contact": {
-                  "phone": "7337451108",
-                  "email": "hitheshlade1214@gmail.com"
+                  "phone": "9999999999",
+                  "email": "santosh@gmail.com"
                 },
                 "person": {
-                  "name": "integrations-hithesh"
+                  "name": "Santosh Novotel"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "name": "integrations-hithesh",
-                    "building": "shilpa tech park",
-                    "locality": "Devarabisanahalli Road",
+                    "name": "Santosh Novotel",
+                    "building": "Novotel Room no 101",
+                    "locality": "Outer Ring Road",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
@@ -2556,8 +2336,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-24T03:52:03.204Z",
-                    "start": "2024-09-24T03:22:03.204Z"
+                    "end": "2024-09-24T18:17:02.355Z",
+                    "start": "2024-09-24T17:47:02.355Z"
                   }
                 }
               }
@@ -2569,18 +2349,7 @@
               "quantity": {
                 "count": 1
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -2589,7 +2358,7 @@
             "params": {
               "amount": "434.95",
               "currency": "INR",
-              "transaction_id": "order_P0gjxSUqeW0pva"
+              "transaction_id": "order_P0vTjdanROT1T1"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -2691,8 +2460,8 @@
               ]
             }
           ],
-          "created_at": "2024-09-23T17:22:02.973Z",
-          "updated_at": "2024-09-23T17:27:05.339Z"
+          "created_at": "2024-09-24T07:47:02.124Z",
+          "updated_at": "2024-09-24T07:48:37.761Z"
         }
       }
     },
@@ -2707,30 +2476,30 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "fbdecdb0-43f6-4903-bc6b-970757c1f131",
-        "timestamp": "2024-09-23T17:27:53.945Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "594bef3d-e674-4109-a6c5-f7656a909105",
+        "timestamp": "2024-09-24T07:48:48.260Z",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
-          "id": "2024-09-23-870766",
+          "id": "2024-09-24-132159",
           "state": "In-progress",
           "billing": {
             "address": {
-              "name": "integrations-hithesh",
-              "building": "shilpa tech park",
-              "locality": "Devarabisanahalli Road",
+              "name": "Santosh Novotel",
+              "building": "Novotel Room no 101",
+              "locality": "Outer Ring Road",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "fulfillments": [
             {
@@ -2760,8 +2529,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-23T18:22:03.204Z",
-                    "start": "2024-09-23T17:52:03.204Z"
+                    "end": "2024-09-24T08:47:02.355Z",
+                    "start": "2024-09-24T08:17:02.355Z"
                   }
                 },
                 "contact": {
@@ -2771,18 +2540,18 @@
               },
               "end": {
                 "contact": {
-                  "phone": "7337451108",
-                  "email": "hitheshlade1214@gmail.com"
+                  "phone": "9999999999",
+                  "email": "santosh@gmail.com"
                 },
                 "person": {
-                  "name": "integrations-hithesh"
+                  "name": "Santosh Novotel"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "name": "integrations-hithesh",
-                    "building": "shilpa tech park",
-                    "locality": "Devarabisanahalli Road",
+                    "name": "Santosh Novotel",
+                    "building": "Novotel Room no 101",
+                    "locality": "Outer Ring Road",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
@@ -2791,8 +2560,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-24T03:52:03.204Z",
-                    "start": "2024-09-24T03:22:03.204Z"
+                    "end": "2024-09-24T18:17:02.355Z",
+                    "start": "2024-09-24T17:47:02.355Z"
                   }
                 }
               }
@@ -2804,18 +2573,7 @@
               "quantity": {
                 "count": 1
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -2824,7 +2582,7 @@
             "params": {
               "amount": "434.95",
               "currency": "INR",
-              "transaction_id": "order_P0gjxSUqeW0pva"
+              "transaction_id": "order_P0vTjdanROT1T1"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -2926,8 +2684,8 @@
               ]
             }
           ],
-          "created_at": "2024-09-23T17:22:02.973Z",
-          "updated_at": "2024-09-23T17:27:53.945Z"
+          "created_at": "2024-09-24T07:47:02.124Z",
+          "updated_at": "2024-09-24T07:48:48.260Z"
         }
       }
     },
@@ -2942,30 +2700,30 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "e4092154-bae6-4557-af25-bcc134d8dda8",
-        "timestamp": "2024-09-23T17:28:17.012Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "202d1a71-9372-4a1c-90f2-f9c0a990a37d",
+        "timestamp": "2024-09-24T07:48:59.082Z",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
-          "id": "2024-09-23-870766",
+          "id": "2024-09-24-132159",
           "state": "In-progress",
           "billing": {
             "address": {
-              "name": "integrations-hithesh",
-              "building": "shilpa tech park",
-              "locality": "Devarabisanahalli Road",
+              "name": "Santosh Novotel",
+              "building": "Novotel Room no 101",
+              "locality": "Outer Ring Road",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "fulfillments": [
             {
@@ -2995,10 +2753,10 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-23T18:22:03.204Z",
-                    "start": "2024-09-23T17:52:03.204Z"
+                    "end": "2024-09-24T08:47:02.355Z",
+                    "start": "2024-09-24T08:17:02.355Z"
                   },
-                  "timestamp": "2024-09-23T17:28:17.012Z"
+                  "timestamp": "2024-09-24T07:48:59.082Z"
                 },
                 "contact": {
                   "phone": "7880500880",
@@ -3007,18 +2765,18 @@
               },
               "end": {
                 "contact": {
-                  "phone": "7337451108",
-                  "email": "hitheshlade1214@gmail.com"
+                  "phone": "9999999999",
+                  "email": "santosh@gmail.com"
                 },
                 "person": {
-                  "name": "integrations-hithesh"
+                  "name": "Santosh Novotel"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "name": "integrations-hithesh",
-                    "building": "shilpa tech park",
-                    "locality": "Devarabisanahalli Road",
+                    "name": "Santosh Novotel",
+                    "building": "Novotel Room no 101",
+                    "locality": "Outer Ring Road",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
@@ -3027,8 +2785,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-24T03:52:03.204Z",
-                    "start": "2024-09-24T03:22:03.204Z"
+                    "end": "2024-09-24T18:17:02.355Z",
+                    "start": "2024-09-24T17:47:02.355Z"
                   }
                 }
               },
@@ -3064,18 +2822,7 @@
               "quantity": {
                 "count": 1
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -3084,7 +2831,7 @@
             "params": {
               "amount": "434.95",
               "currency": "INR",
-              "transaction_id": "order_P0gjxSUqeW0pva"
+              "transaction_id": "order_P0vTjdanROT1T1"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -3186,11 +2933,11 @@
               ]
             }
           ],
-          "created_at": "2024-09-23T17:22:02.973Z",
-          "updated_at": "2024-09-23T17:28:17.012Z",
+          "created_at": "2024-09-24T07:47:02.124Z",
+          "updated_at": "2024-09-24T07:48:59.082Z",
           "documents": [
             {
-              "url": "http://stg.dlyb.in/o/2024-09-23-870766",
+              "url": "http://stg.dlyb.in/o/2024-09-24-132159",
               "label": "Invoice"
             }
           ]
@@ -3208,30 +2955,30 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "400526ff-bd8f-42a1-ac36-1f27b3c4e816",
-        "timestamp": "2024-09-23T17:28:36.507Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "d7729391-641b-4338-b5b3-a0ecea98f83d",
+        "timestamp": "2024-09-24T07:49:09.729Z",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
-          "id": "2024-09-23-870766",
+          "id": "2024-09-24-132159",
           "state": "In-progress",
           "billing": {
             "address": {
-              "name": "integrations-hithesh",
-              "building": "shilpa tech park",
-              "locality": "Devarabisanahalli Road",
+              "name": "Santosh Novotel",
+              "building": "Novotel Room no 101",
+              "locality": "Outer Ring Road",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "fulfillments": [
             {
@@ -3261,10 +3008,10 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-23T18:22:03.204Z",
-                    "start": "2024-09-23T17:52:03.204Z"
+                    "end": "2024-09-24T08:47:02.355Z",
+                    "start": "2024-09-24T08:17:02.355Z"
                   },
-                  "timestamp": "2024-09-23T17:28:17.012Z"
+                  "timestamp": "2024-09-24T07:48:59.082Z"
                 },
                 "contact": {
                   "phone": "7880500880",
@@ -3273,18 +3020,18 @@
               },
               "end": {
                 "contact": {
-                  "phone": "7337451108",
-                  "email": "hitheshlade1214@gmail.com"
+                  "phone": "9999999999",
+                  "email": "santosh@gmail.com"
                 },
                 "person": {
-                  "name": "integrations-hithesh"
+                  "name": "Santosh Novotel"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "name": "integrations-hithesh",
-                    "building": "shilpa tech park",
-                    "locality": "Devarabisanahalli Road",
+                    "name": "Santosh Novotel",
+                    "building": "Novotel Room no 101",
+                    "locality": "Outer Ring Road",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
@@ -3293,8 +3040,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-24T03:52:03.204Z",
-                    "start": "2024-09-24T03:22:03.204Z"
+                    "end": "2024-09-24T18:17:02.355Z",
+                    "start": "2024-09-24T17:47:02.355Z"
                   }
                 }
               },
@@ -3330,18 +3077,7 @@
               "quantity": {
                 "count": 1
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -3350,7 +3086,7 @@
             "params": {
               "amount": "434.95",
               "currency": "INR",
-              "transaction_id": "order_P0gjxSUqeW0pva"
+              "transaction_id": "order_P0vTjdanROT1T1"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -3452,11 +3188,11 @@
               ]
             }
           ],
-          "created_at": "2024-09-23T17:22:02.973Z",
-          "updated_at": "2024-09-23T17:28:36.507Z",
+          "created_at": "2024-09-24T07:47:02.124Z",
+          "updated_at": "2024-09-24T07:49:09.729Z",
           "documents": [
             {
-              "url": "http://stg.dlyb.in/o/2024-09-23-870766",
+              "url": "http://stg.dlyb.in/o/2024-09-24-132159",
               "label": "Invoice"
             }
           ]
@@ -3474,30 +3210,30 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-        "message_id": "3d602979-5659-4057-aa90-e44709f4d6ee",
-        "timestamp": "2024-09-23T17:30:00.710Z",
+        "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+        "message_id": "4e38b4c4-e774-413f-8e35-ce51ea9c6f52",
+        "timestamp": "2024-09-24T07:51:19.657Z",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
-          "id": "2024-09-23-870766",
+          "id": "2024-09-24-132159",
           "state": "Completed",
           "billing": {
             "address": {
-              "name": "integrations-hithesh",
-              "building": "shilpa tech park",
-              "locality": "Devarabisanahalli Road",
+              "name": "Santosh Novotel",
+              "building": "Novotel Room no 101",
+              "locality": "Outer Ring Road",
               "city": "Bengaluru",
               "state": "Karnataka",
               "country": "IND",
               "area_code": "560103"
             },
-            "phone": "7337451108",
-            "name": "integrations-hithesh",
-            "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-09-23T17:21:16.219Z",
-            "updated_at": "2024-09-23T17:21:16.219Z"
+            "phone": "9999999999",
+            "name": "Santosh Novotel",
+            "email": "santosh@gmail.com",
+            "created_at": "2024-09-24T07:46:23.924Z",
+            "updated_at": "2024-09-24T07:46:23.924Z"
           },
           "fulfillments": [
             {
@@ -3527,10 +3263,10 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-23T18:22:03.204Z",
-                    "start": "2024-09-23T17:52:03.204Z"
+                    "end": "2024-09-24T08:47:02.355Z",
+                    "start": "2024-09-24T08:17:02.355Z"
                   },
-                  "timestamp": "2024-09-23T17:28:17.012Z"
+                  "timestamp": "2024-09-24T07:48:59.082Z"
                 },
                 "contact": {
                   "phone": "7880500880",
@@ -3539,18 +3275,18 @@
               },
               "end": {
                 "contact": {
-                  "phone": "7337451108",
-                  "email": "hitheshlade1214@gmail.com"
+                  "phone": "9999999999",
+                  "email": "santosh@gmail.com"
                 },
                 "person": {
-                  "name": "integrations-hithesh"
+                  "name": "Santosh Novotel"
                 },
                 "location": {
-                  "gps": "12.931582,77.685340",
+                  "gps": "12.929673645000271,77.68327276421023",
                   "address": {
-                    "name": "integrations-hithesh",
-                    "building": "shilpa tech park",
-                    "locality": "Devarabisanahalli Road",
+                    "name": "Santosh Novotel",
+                    "building": "Novotel Room no 101",
+                    "locality": "Outer Ring Road",
                     "city": "Bengaluru",
                     "state": "Karnataka",
                     "country": "IND",
@@ -3559,10 +3295,10 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-09-24T03:52:03.204Z",
-                    "start": "2024-09-24T03:22:03.204Z"
+                    "end": "2024-09-24T18:17:02.355Z",
+                    "start": "2024-09-24T17:47:02.355Z"
                   },
-                  "timestamp": "2024-09-23T17:30:00.710Z"
+                  "timestamp": "2024-09-24T07:51:19.657Z"
                 }
               },
               "tags": [
@@ -3597,18 +3333,7 @@
               "quantity": {
                 "count": 1
               },
-              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "tags": [
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "item"
-                    }
-                  ]
-                }
-              ]
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
           ],
           "payment": {
@@ -3617,7 +3342,7 @@
             "params": {
               "amount": "434.95",
               "currency": "INR",
-              "transaction_id": "order_P0gjxSUqeW0pva"
+              "transaction_id": "order_P0vTjdanROT1T1"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -3719,11 +3444,11 @@
               ]
             }
           ],
-          "created_at": "2024-09-23T17:22:02.973Z",
-          "updated_at": "2024-09-23T17:30:00.710Z",
+          "created_at": "2024-09-24T07:47:02.124Z",
+          "updated_at": "2024-09-24T07:51:19.657Z",
           "documents": [
             {
-              "url": "http://stg.dlyb.in/o/2024-09-23-870766",
+              "url": "http://stg.dlyb.in/o/2024-09-24-132159",
               "label": "Invoice"
             }
           ]

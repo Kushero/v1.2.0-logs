@@ -44,11 +44,6 @@
               "id": "1",
               "type": "Delivery",
               "contact": { "phone": "7880500880", "email": "help@dailybee.in" }
-            },
-            {
-              "id": "2",
-              "type": "Self-Pickup",
-              "contact": { "phone": "7880500880", "email": "help@dailybee.in" }
             }
           ],
           "descriptor": {

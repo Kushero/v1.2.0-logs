@@ -9,20 +9,20 @@
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "21df64af-738e-4efe-8bb8-c6f5ff500832",
-    "message_id": "a67e66c5-ef89-49f0-8038-27b2f35c4f57",
-    "timestamp": "2024-09-23T17:28:42.222Z",
+    "transaction_id": "057fd0a7-14b7-421b-93b1-88962355d02c",
+    "message_id": "ef9a044e-f6b5-42bf-a397-daf4423e5da2",
+    "timestamp": "2024-09-24T07:50:51.337Z",
     "ttl": "PT30S"
   },
   "message": {
     "tracking": {
       "id": "SD_PL_663b43b55123b55984298e82",
       "location": {
-        "gps": "12.931582,77.685340",
+        "gps": "12.929673645000271,77.68327276421023",
         "time": {
-          "timestamp": "2024-09-23T17:27:42.222Z"
+          "timestamp": "2024-09-24T07:49:51.337Z"
         },
-        "updated_at": "2024-09-23T17:27:42.222Z"
+        "updated_at": "2024-09-24T07:49:51.337Z"
       },
       "status": "active",
       "tags": [
@@ -31,7 +31,7 @@
           "list": [
             {
               "code": "id",
-              "value": "2024-09-23-870766"
+              "value": "2024-09-24-132159"
             }
           ]
         },
@@ -53,7 +53,7 @@
           "list": [
             {
               "code": "lat_lng",
-              "value": "12.931582,77.685340"
+              "value": "12.929673645000271,77.68327276421023"
             },
             {
               "code": "sequence",

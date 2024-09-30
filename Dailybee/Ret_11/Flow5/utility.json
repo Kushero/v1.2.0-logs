@@ -6,54 +6,20 @@
       "on_search_full_catalog_refresh": {
         "message/catalog/bpp/providers0/categories/items": "No items are mapped with the given category_id 00000CM76685 in providers0/items"
       },
-      "select": {
-        "item1customization_id": "/message/order/items/tags/customization/value in item: 663b47255123b55984298e92 should be one of the customizations id mapped in on_search",
-        "item2customization_id": "/message/order/items/tags/customization/value in item: 663bd15b5746e8a95b077846 should be one of the customizations id mapped in on_search",
-        "item3customization_id": "/message/order/items/tags/customization/value in item: 663bd14f5746e8a95b077845 should be one of the customizations id mapped in on_search"
-      },
-      "init": {
-        "item1tags.parent_id": "items[1].tags.parent_id mismatches for Item 663b47255123b55984298e92 in /on_search and /init",
-        "item2tags.parent_id": "items[2].tags.parent_id mismatches for Item 663bd15b5746e8a95b077846 in /on_search and /init",
-        "item3tags.parent_id": "items[3].tags.parent_id mismatches for Item 663bd14f5746e8a95b077845 in /on_search and /init"
-      },
-      "on_init": {
-        "item1tags.parent_id": "items[1].tags.parent_id mismatches for Item 663b47255123b55984298e92 in /select and /init",
-        "item2tags.parent_id": "items[2].tags.parent_id mismatches for Item 663bd15b5746e8a95b077846 in /select and /init",
-        "item3tags.parent_id": "items[3].tags.parent_id mismatches for Item 663bd14f5746e8a95b077845 in /select and /init"
-      },
-      "confirm": {
-        "item1tags.parent_id": "items[1].tags.parent_id mismatches for Item 663b47255123b55984298e92 in /select and /confirm",
-        "item2tags.parent_id": "items[2].tags.parent_id mismatches for Item 663bd15b5746e8a95b077846 in /select and /confirm",
-        "item3tags.parent_id": "items[3].tags.parent_id mismatches for Item 663bd14f5746e8a95b077845 in /select and /confirm"
-      },
-      "on_confirm": {
-        "item1tags.parent_id": "items[1].tags.parent_id mismatches for Item 663b47255123b55984298e92 in /select and /init",
-        "item2tags.parent_id": "items[2].tags.parent_id mismatches for Item 663bd15b5746e8a95b077846 in /select and /init",
-        "item3tags.parent_id": "items[3].tags.parent_id mismatches for Item 663bd14f5746e8a95b077845 in /select and /init"
-      },
       "on_cancel": {
-        "invalidPrice[663b44b15123b55984298e83]": "Price mismatch for  [663b44b15123b55984298e83] provided in quote object '[100]'. Should be same as in quote of on_select",
-        "invalidPrice[663b47255123b55984298e92]": "Price mismatch for  [663b47255123b55984298e92] provided in quote object '[10]'. Should be same as in quote of on_select",
-        "invalidPrice[663bd15b5746e8a95b077846]": "Price mismatch for  [663bd15b5746e8a95b077846] provided in quote object '[20]'. Should be same as in quote of on_select",
-        "invalidPrice[663bd14f5746e8a95b077845]": "Price mismatch for  [663bd14f5746e8a95b077845] provided in quote object '[20]'. Should be same as in quote of on_select",
-        "invalidPrice[663b452a5123b55984298e8e]": "Price mismatch for  [663b452a5123b55984298e8e] provided in quote object '[319]'. Should be same as in quote of on_select",
-        "invalidItemID[SD_PL_663b43b55123b55984298e82]": "Item ID [SD_PL_663b43b55123b55984298e82] not present in items array"
+        "schemaErr0": "/message/order/quote/breakup/1/item must have required property 'price'",
+        "schemaErr1": "/message/order/quote/breakup/3/item must have required property 'price'"
       },
       "on_status_rto_delivered/disposed": {
-        "invalidPrice[663b44b15123b55984298e83]": "Price mismatch for  [663b44b15123b55984298e83] provided in quote object '[100]'. Should be same as in quote of on_select",
-        "invalidPrice[663b47255123b55984298e92]": "Price mismatch for  [663b47255123b55984298e92] provided in quote object '[10]'. Should be same as in quote of on_select",
-        "invalidPrice[663bd15b5746e8a95b077846]": "Price mismatch for  [663bd15b5746e8a95b077846] provided in quote object '[20]'. Should be same as in quote of on_select",
-        "invalidPrice[663bd14f5746e8a95b077845]": "Price mismatch for  [663bd14f5746e8a95b077845] provided in quote object '[20]'. Should be same as in quote of on_select",
-        "invalidPrice[663b452a5123b55984298e8e]": "Price mismatch for  [663b452a5123b55984298e8e] provided in quote object '[319]'. Should be same as in quote of on_select",
-        "invalidItemID[SD_PL_663b43b55123b55984298e82]": "Item ID [SD_PL_663b43b55123b55984298e82] not present in items array",
-        "rtoFFObj/end/time": "fulfillment type rto end/time should be present in /on_status_rto_delivered/disposed when state/desc/code is RTO-Initiated"
+        "schemaErr0": "/message/order/quote/breakup/1/item must have required property 'price'",
+        "schemaErr1": "/message/order/quote/breakup/3/item must have required property 'price'"
       }
     },
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "domain": "ONDC:RET11",
-    "reportTimestamp": "2024-09-24T05:10:49.858Z"
+    "reportTimestamp": "2024-09-25T15:14:26.555Z"
   },
-  "signature": "ZKHmv8RViIu/VxM8qaOrbSflwMCsaiK6w/F6ZCdOJiUn2IEp1l58VghnUZDjfsNtNLq3Gx6EvM+svUni46rfDw==",
-  "signTimestamp": "2024-09-24T05:10:49.858Z"
+  "signature": "PM8Nc1ZflsuZqBRsFO++6dM0M8wAFaimZz6rxbsSQnDnc7tAE1W3BVVnrD4m/8IajYbpLtpoRP4hins13V5XDg==",
+  "signTimestamp": "2024-09-25T15:14:26.555Z"
 }
