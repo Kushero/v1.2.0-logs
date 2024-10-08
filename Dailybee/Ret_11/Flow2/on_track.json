@@ -10,19 +10,19 @@
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
     "transaction_id": "b175c389-17fb-4bfb-a5e6-a49ab71275cd",
-    "message_id": "b3892def-3b56-440b-be9c-f79f79cba29e",
-    "timestamp": "2024-10-04T10:27:06.778Z",
+    "message_id": "7b74d9d9-39c9-4f18-9a2f-67226da7f028",
+    "timestamp": "2024-10-04T10:26:59.650Z",
     "ttl": "PT30S"
   },
   "message": {
     "tracking": {
       "id": "SD_PL_663b43b55123b55984298e82",
       "location": {
-        "gps": "12.931582,77.685340",
+        "gps": "12.929673645000271,77.68327276421023",
         "time": {
-          "timestamp": "2024-10-04T10:26:06.778Z"
+          "timestamp": "2024-10-04T10:26:57.320Z"
         },
-        "updated_at": "2024-10-04T10:26:06.778Z"
+        "updated_at": "2024-10-04T10:26:57.320Z"
       },
       "status": "active",
       "tags": [
@@ -53,7 +53,7 @@
           "list": [
             {
               "code": "lat_lng",
-              "value": "12.931582,77.685340"
+              "value": "12.929673645000271,77.68327276421023"
             },
             {
               "code": "sequence",

@@ -4,8 +4,6 @@
     "message": "Logs were not verified successfully",
     "report": {
       "on_search_full_catalog_refresh": {
-        "prvdr0item0tags2timing_day": "Invalid value for 'day_to': 7",
-        "prvdr0item1tags0timing_day": "Invalid value for 'day_to': 7",
         "message/catalog/bpp/providers0/categories/items": "No items are mapped with the given category_id 00000CM76685 in providers0/items"
       },
       "on_cancel": {
@@ -26,8 +24,8 @@
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "domain": "ONDC:RET11",
-    "reportTimestamp": "2024-10-04T11:58:12.696Z"
+    "reportTimestamp": "2024-10-08T11:42:36.102Z"
   },
-  "signature": "XgALYyPU8fZKTlRhnaXSEi+BdQUdF/aDYCGqC924FhgTVVHW/OII0UOijCD9eXDprHil9nuKvcZ9lKOZJI1ADw==",
-  "signTimestamp": "2024-10-04T11:58:12.697Z"
+  "signature": "EZFWz0QqZ6nnkBunwMHpaQN9MgwVuv1BQ5slqdN6eMWQooEEBt4klJe/kppU6N1FOWdcK+9SYvuvVjv+axamDw==",
+  "signTimestamp": "2024-10-08T11:42:36.102Z"
 }

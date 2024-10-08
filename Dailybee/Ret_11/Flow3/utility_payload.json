@@ -303,27 +303,7 @@
                         }
                       ]
                     },
-                    {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
+
                     {
                       "code": "veg_nonveg",
                       "list": [
@@ -383,27 +363,6 @@
                   "@ondc/org/available_on_cod": false,
                   "@ondc/org/contact_details_consumer_care": "Ramesh,ramesh@abc.com,18004254444",
                   "tags": [
-                    {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
                     {
                       "code": "veg_nonveg",
                       "list": [
@@ -1118,27 +1077,7 @@
                         }
                       ]
                     },
-                    {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
+
                     {
                       "code": "display",
                       "list": [
@@ -1559,7 +1498,7 @@
                       "count": "0"
                     },
                     "maximum": {
-                      "count": "15"
+                      "count": "0"
                     }
                   },
                   "parent_item_id": "ENxobRBFIf/y",
@@ -2859,8 +2798,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-10-04T21:47:56.608Z",
-                    "start": "2024-10-04T21:17:56.608Z"
+                    "end": "2024-10-04T12:45:56.608Z",
+                    "start": "2024-10-04T12:30:56.608Z"
                   }
                 }
               }
@@ -3083,8 +3022,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-10-04T21:47:56.608Z",
-                    "start": "2024-10-04T21:17:56.608Z"
+                    "end": "2024-10-04T12:45:56.608Z",
+                    "start": "2024-10-04T12:30:56.608Z"
                   }
                 }
               },
@@ -3332,8 +3271,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-10-04T21:47:56.608Z",
-                    "start": "2024-10-04T21:17:56.608Z"
+                    "end": "2024-10-04T12:45:56.608Z",
+                    "start": "2024-10-04T12:30:56.608Z"
                   }
                 }
               },
@@ -3587,8 +3526,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-10-04T21:47:56.608Z",
-                    "start": "2024-10-04T21:17:56.608Z"
+                    "end": "2024-10-04T12:45:56.608Z",
+                    "start": "2024-10-04T12:30:56.608Z"
                   }
                 }
               },
@@ -3842,8 +3781,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-10-04T21:47:56.608Z",
-                    "start": "2024-10-04T21:17:56.608Z"
+                    "end": "2024-10-04T12:45:56.608Z",
+                    "start": "2024-10-04T12:30:56.608Z"
                   },
                   "timestamp": "2024-10-04T11:19:36.705Z"
                 }
