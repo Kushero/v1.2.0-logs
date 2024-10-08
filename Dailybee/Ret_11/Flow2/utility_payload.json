@@ -304,27 +304,6 @@
                       ]
                     },
                     {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
-                    {
                       "code": "veg_nonveg",
                       "list": [
                         {
@@ -383,27 +362,6 @@
                   "@ondc/org/available_on_cod": false,
                   "@ondc/org/contact_details_consumer_care": "Ramesh,ramesh@abc.com,18004254444",
                   "tags": [
-                    {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
                     {
                       "code": "veg_nonveg",
                       "list": [
@@ -1118,27 +1076,7 @@
                         }
                       ]
                     },
-                    {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
+
                     {
                       "code": "display",
                       "list": [
@@ -1216,7 +1154,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2132,7 +2070,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2298,6 +2236,14 @@
               "id": "663b452a5123b55984298e8e",
               "quantity": {
                 "count": 1
+              },
+              "location_id": "PL_663b43b55123b55984298e82",
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
+            },
+            {
+              "id": "663b452a5123b55984298e8e",
+              "quantity": {
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
@@ -2367,7 +2313,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2533,6 +2479,14 @@
               "id": "663b452a5123b55984298e8e",
               "quantity": {
                 "count": 1
+              },
+              "location_id": "PL_663b43b55123b55984298e82",
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
+            },
+            {
+              "id": "663b452a5123b55984298e8e",
+              "quantity": {
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
@@ -3119,7 +3073,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -3926,7 +3880,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -4717,7 +4671,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -5532,7 +5486,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -6348,7 +6302,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -7170,7 +7124,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -7993,7 +7947,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
