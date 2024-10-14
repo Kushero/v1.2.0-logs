@@ -566,27 +566,6 @@
                   "value": "-15.95"
                 }
               ]
-            },
-            {
-              "code": "quote_trail",
-              "list": [
-                {
-                  "code": "type",
-                  "value": "delivery"
-                },
-                {
-                  "code": "id",
-                  "value": "SD_PL_663b43b55123b55984298e82"
-                },
-                {
-                  "code": "currency",
-                  "value": "INR"
-                },
-                {
-                  "code": "value",
-                  "value": "-100"
-                }
-              ]
             }
           ]
         }
@@ -594,7 +573,7 @@
       "quote": {
         "price": {
           "currency": "INR",
-          "value": "0"
+          "value": "100.00"
         },
         "breakup": [
           {
@@ -985,7 +964,7 @@
             "@ondc/org/title_type": "delivery",
             "price": {
               "currency": "INR",
-              "value": "0.00"
+              "value": "100.00"
             },
             "@ondc/org/item_quantity": {
               "count": 0

@@ -729,14 +729,6 @@
               "price": {
                 "currency": "INR",
                 "value": "319.00"
-              },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
               }
             },
             "@ondc/org/item_id": "663b452a5123b55984298e8e",
@@ -755,14 +747,6 @@
               "price": {
                 "currency": "INR",
                 "value": "319.00"
-              },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
               }
             },
             "@ondc/org/item_id": "663b452a5123b55984298e8e",
@@ -781,14 +765,6 @@
               "price": {
                 "currency": "INR",
                 "value": "100.00"
-              },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
               },
               "parent_item_id": "JvbKhkkd0oJ1",
               "tags": [
@@ -819,14 +795,6 @@
               "price": {
                 "currency": "INR",
                 "value": "100.00"
-              },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
               },
               "parent_item_id": "JvbKhkkd0oJ1",
               "tags": [
@@ -857,14 +825,6 @@
               "price": {
                 "currency": "INR",
                 "value": "10.00"
-              },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
               },
               "parent_item_id": "JvbKhkkd0oJ1",
               "tags": [
@@ -904,14 +864,6 @@
               "price": {
                 "currency": "INR",
                 "value": "10.00"
-              },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
               },
               "parent_item_id": "JvbKhkkd0oJ1",
               "tags": [
@@ -952,14 +904,6 @@
                 "currency": "INR",
                 "value": "20.00"
               },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
-              },
               "parent_item_id": "JvbKhkkd0oJ1",
               "tags": [
                 {
@@ -998,14 +942,6 @@
               "price": {
                 "currency": "INR",
                 "value": "20.00"
-              },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
               },
               "parent_item_id": "JvbKhkkd0oJ1",
               "tags": [
@@ -1046,14 +982,6 @@
                 "currency": "INR",
                 "value": "10.00"
               },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
-              },
               "parent_item_id": "JvbKhkkd0oJ1",
               "tags": [
                 {
@@ -1092,14 +1020,6 @@
               "price": {
                 "currency": "INR",
                 "value": "10.00"
-              },
-              "quantity": {
-                "available": {
-                  "count": "99"
-                },
-                "maximum": {
-                  "count": "15"
-                }
               },
               "parent_item_id": "JvbKhkkd0oJ1",
               "tags": [
