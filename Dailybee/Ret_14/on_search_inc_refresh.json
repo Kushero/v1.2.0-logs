@@ -9,9 +9,9 @@
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "27a45a9d-f4a2-4247-9ee1-b1b80ed0a041",
-    "message_id": "1626f530-2a7d-4234-bc9c-a8e4fe8e70b2",
-    "timestamp": "2024-09-23T16:29:46.632Z",
+    "transaction_id": "f23ca9d6-f2c0-42f1-9389-6d3465e4ef0e",
+    "message_id": "23bf5848-b6fc-4675-9448-75dab5732bd6",
+    "timestamp": "2024-10-15T07:42:38.149Z",
     "ttl": "PT30S"
   },
   "message": {
@@ -24,7 +24,7 @@
               "id": "66f111d30bd0da4b98dd3bad",
               "descriptor": {
                 "name": "Apple iPhone 14",
-                "code": "3:00000001",
+                "code": "3:8906086570685",
                 "symbol": "https://m.media-amazon.com/images/I/61cwywLZR-L._SX679_.jpg",
                 "short_desc": "Apple iPhone 14",
                 "long_desc": "Apple iPhone 14",
@@ -40,51 +40,143 @@
               "location_id": "PL_66f1081e0bd0da4b98dd3ba6",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-09-23T10:01:50.403Z"
+                "timestamp": "2024-10-15T07:40:07.321Z"
               },
               "related": true,
               "recommended": true,
               "tags": [
                 {
                   "code": "origin",
-                  "list": [{ "code": "country", "value": "IND" }]
+                  "list": [
+                    {
+                      "code": "country",
+                      "value": "IND"
+                    }
+                  ]
                 },
                 {
                   "code": "attribute",
                   "list": [
-                    { "code": "brand", "value": "iPhone" },
-                    { "code": "model", "value": "iPhone 14" },
-                    { "code": "colour", "value": "#0000FF" },
-                    { "code": "colour_name", "value": "blue" },
-                    { "code": "ram", "value": "128" },
-                    { "code": "ram_unit", "value": "GB" },
-                    { "code": "storage", "value": "128" },
-                    { "code": "storage_unit", "value": "GB" },
-                    { "code": "os_type", "value": "iOS" },
-                    { "code": "weight", "value": "172" },
-                    { "code": "length", "value": "14.67" },
-                    { "code": "breadth", "value": "7.15" },
-                    { "code": "height", "value": "0.78" },
-                    { "code": "model_year", "value": "2021" },
-                    { "code": "rom", "value": "128" },
-                    { "code": "rom_unit", "value": "GB" },
-                    { "code": "screen_size", "value": "6.1" },
-                    { "code": "primary_camera", "value": "48" },
-                    { "code": "secondary_camera", "value": "24" },
-                    { "code": "cpu", "value": "A15" },
-                    { "code": "gpu", "value": "A16 bionic" },
-                    { "code": "battery_capacity", "value": "3279" },
-                    { "code": "os_version", "value": "16.0" },
-                    { "code": "connectivity", "value": "4G" },
-                    { "code": "form_factor", "value": "touchscreen" },
-                    { "code": "refurbished", "value": "no" }
+                    {
+                      "code": "brand",
+                      "value": "iPhone"
+                    },
+                    {
+                      "code": "model",
+                      "value": "iPhone 14"
+                    },
+                    {
+                      "code": "colour",
+                      "value": "#FFFFFF"
+                    },
+                    {
+                      "code": "colour_name",
+                      "value": "white"
+                    },
+                    {
+                      "code": "ram",
+                      "value": "128"
+                    },
+                    {
+                      "code": "ram_unit",
+                      "value": "GB"
+                    },
+                    {
+                      "code": "storage",
+                      "value": "128"
+                    },
+                    {
+                      "code": "storage_unit",
+                      "value": "GB"
+                    },
+                    {
+                      "code": "os_type",
+                      "value": "iOS"
+                    },
+                    {
+                      "code": "weight",
+                      "value": "172"
+                    },
+                    {
+                      "code": "length",
+                      "value": "14.67"
+                    },
+                    {
+                      "code": "breadth",
+                      "value": "7.15"
+                    },
+                    {
+                      "code": "height",
+                      "value": "0.78"
+                    },
+                    {
+                      "code": "model_year",
+                      "value": "2021"
+                    },
+                    {
+                      "code": "rom",
+                      "value": "128"
+                    },
+                    {
+                      "code": "rom_unit",
+                      "value": "GB"
+                    },
+                    {
+                      "code": "screen_size",
+                      "value": "6.1"
+                    },
+                    {
+                      "code": "primary_camera",
+                      "value": "48"
+                    },
+                    {
+                      "code": "secondary_camera",
+                      "value": "24"
+                    },
+                    {
+                      "code": "cpu",
+                      "value": "A15"
+                    },
+                    {
+                      "code": "gpu",
+                      "value": "A16 bionic"
+                    },
+                    {
+                      "code": "battery_capacity",
+                      "value": "3279"
+                    },
+                    {
+                      "code": "os_version",
+                      "value": "16.0"
+                    },
+                    {
+                      "code": "connectivity",
+                      "value": "4G"
+                    },
+                    {
+                      "code": "form_factor",
+                      "value": "touchscreen"
+                    },
+                    {
+                      "code": "refurbished",
+                      "value": "no"
+                    }
                   ]
                 }
               ],
               "quantity": {
-                "unitized": { "measure": { "unit": "unit", "value": "1" } },
-                "available": { "count": "0" },
-                "maximum": { "count": "15" }
+                "unitized": {
+                  "measure": {
+                    "unit": "unit",
+                    "value": "1"
+                  }
+                },
+                "available": {
+                  "count": "0"
+                },
+                "maximum": {
+                  "count": "15"
+                }
               },
               "category_id": "Mobile Phone",
               "fulfillment_id": "1",
