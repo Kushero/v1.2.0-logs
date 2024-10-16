@@ -14,9 +14,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "825984c3-f90c-4efa-a3cc-09f73f97ea1e",
-        "message_id": "6a1d63a4-4ec3-4ef6-b490-101449fc6398",
-        "timestamp": "2024-10-04T09:21:36.035Z",
+        "transaction_id": "529dceb1-fb0d-4de8-875f-f62862cab744",
+        "message_id": "6060ac31-ad0b-4d23-b09d-a432435954a7",
+        "timestamp": "2024-10-16T07:52:45.123Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -42,9 +42,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "825984c3-f90c-4efa-a3cc-09f73f97ea1e",
-        "message_id": "6a1d63a4-4ec3-4ef6-b490-101449fc6398",
-        "timestamp": "2024-10-04T09:22:36.035Z",
+        "transaction_id": "529dceb1-fb0d-4de8-875f-f62862cab744",
+        "message_id": "6060ac31-ad0b-4d23-b09d-a432435954a7",
+        "timestamp": "2024-10-16T07:54:34.619Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -80,7 +80,7 @@
               "id": "663b43b55123b55984298e82",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-04T09:22:36.035Z"
+                "timestamp": "2024-10-16T07:54:34.619Z"
               },
               "fulfillments": [
                 {
@@ -107,7 +107,7 @@
                   "id": "PL_663b43b55123b55984298e82",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-04T09:22:36.035Z",
+                    "timestamp": "2024-10-16T07:54:34.619Z",
                     "days": "1,2,3,4,5,6,7",
                     "schedule": {
                       "holidays": []
@@ -213,7 +213,7 @@
                   "id": "663b44b15123b55984298e83",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-04T09:22:36.035Z"
+                    "timestamp": "2024-10-16T07:54:34.619Z"
                   },
                   "descriptor": {
                     "name": "NonVeg Loaded Pizza",
@@ -304,27 +304,6 @@
                       ]
                     },
                     {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
-                    {
                       "code": "veg_nonveg",
                       "list": [
                         {
@@ -339,7 +318,7 @@
                   "id": "663b452a5123b55984298e8e",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-04T09:22:36.035Z"
+                    "timestamp": "2024-10-16T07:54:34.619Z"
                   },
                   "descriptor": {
                     "name": "Chicken Fillet Nugget Snack",
@@ -383,27 +362,6 @@
                   "@ondc/org/available_on_cod": false,
                   "@ondc/org/contact_details_consumer_care": "Ramesh,ramesh@abc.com,18004254444",
                   "tags": [
-                    {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
                     {
                       "code": "veg_nonveg",
                       "list": [
@@ -1204,9 +1162,9 @@
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "0037e826-d753-4420-865c-4c0146bc4200",
-        "message_id": "57b55d71-16c6-48fe-b58c-1069505595e8",
-        "timestamp": "2024-10-04T11:32:24.457Z",
+        "transaction_id": "7dde3b83-fdb7-49bf-940a-c581a9f5723b",
+        "message_id": "b4e7246d-37be-4f78-bdf1-992c069ad756",
+        "timestamp": "2024-10-16T14:11:20.359Z",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "ttl": "PT30S"
       },
@@ -1216,7 +1174,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -1230,12 +1188,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
-              "id": "66fed34b59de88de3e92a09a",
+              "id": "66fed30e59de88de3e92a098",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -1258,12 +1216,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd14f5746e8a95b077845",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -1286,12 +1244,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd15b5746e8a95b077846",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -1314,12 +1272,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
-              "id": "663bd1455746e8a95b077844",
+              "id": "66feda0259de88de3e92a09e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -1342,12 +1300,40 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
+            },
+            {
+              "id": "663bd1655746e8a95b077847",
+              "quantity": {
+                "count": 2
+              },
+              "location_id": "PL_663b43b55123b55984298e82",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "0000CG135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ],
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663b452a5123b55984298e8e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82"
             }
@@ -1386,9 +1372,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "0037e826-d753-4420-865c-4c0146bc4200",
-        "message_id": "57b55d71-16c6-48fe-b58c-1069505595e8",
-        "timestamp": "2024-10-04T11:32:24.871Z"
+        "transaction_id": "7dde3b83-fdb7-49bf-940a-c581a9f5723b",
+        "message_id": "b4e7246d-37be-4f78-bdf1-992c069ad756",
+        "timestamp": "2024-10-16T14:11:20.586Z"
       },
       "message": {
         "order": {
@@ -1404,7 +1390,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "type",
@@ -1418,9 +1404,9 @@
               ]
             },
             {
-              "id": "66fed34b59de88de3e92a09a",
+              "id": "66fed30e59de88de3e92a098",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -1445,7 +1431,7 @@
             {
               "id": "663bd14f5746e8a95b077845",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -1470,7 +1456,7 @@
             {
               "id": "663bd15b5746e8a95b077846",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -1493,9 +1479,34 @@
               ]
             },
             {
-              "id": "663bd1455746e8a95b077844",
+              "id": "66feda0259de88de3e92a09e",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "0000CG135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "663bd1655746e8a95b077847",
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -1540,14 +1551,14 @@
           "quote": {
             "price": {
               "currency": "INR",
-              "value": "623.95"
+              "value": "1147.90"
             },
             "breakup": [
               {
                 "title": "NonVeg Loaded Pizza",
                 "price": {
                   "currency": "INR",
-                  "value": "100.00"
+                  "value": "200.00"
                 },
                 "item": {
                   "price": {
@@ -1562,7 +1573,7 @@
                       "count": "15"
                     }
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -1577,7 +1588,7 @@
                 },
                 "@ondc/org/item_id": "663b44b15123b55984298e83",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -1587,10 +1598,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "5.00"
+                  "value": "10.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -1605,7 +1616,7 @@
                 }
               },
               {
-                "title": "medium",
+                "title": "regular",
                 "price": {
                   "currency": "INR",
                   "value": "20.00"
@@ -1613,7 +1624,7 @@
                 "item": {
                   "price": {
                     "currency": "INR",
-                    "value": "20.00"
+                    "value": "10.00"
                   },
                   "quantity": {
                     "available": {
@@ -1623,7 +1634,7 @@
                       "count": "15"
                     }
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -1645,14 +1656,14 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -1660,7 +1671,7 @@
                   "value": "1.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -1687,7 +1698,7 @@
                 "title": "Jalapenos",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
@@ -1702,7 +1713,7 @@
                       "count": "15"
                     }
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -1726,7 +1737,7 @@
                 },
                 "@ondc/org/item_id": "663bd14f5746e8a95b077845",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -1736,10 +1747,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "1.00"
+                  "value": "2.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -1766,7 +1777,7 @@
                 "title": "Corn",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
@@ -1781,7 +1792,7 @@
                       "count": "15"
                     }
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -1805,7 +1816,7 @@
                 },
                 "@ondc/org/item_id": "663bd15b5746e8a95b077846",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -1815,10 +1826,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "1.00"
+                  "value": "2.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -1842,10 +1853,10 @@
                 }
               },
               {
-                "title": "Egg",
+                "title": "Mushroom",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
@@ -1860,7 +1871,7 @@
                       "count": "15"
                     }
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -1882,14 +1893,93 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
+                "title": "Tax",
+                "@ondc/org/title_type": "tax",
+                "price": {
+                  "currency": "INR",
+                  "value": "2.00"
+                },
+                "item": {
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Cheese",
+                "price": {
+                  "currency": "INR",
+                  "value": "20.00"
+                },
+                "item": {
+                  "price": {
+                    "currency": "INR",
+                    "value": "10.00"
+                  },
+                  "quantity": {
+                    "available": {
+                      "count": "99"
+                    },
+                    "maximum": {
+                      "count": "15"
+                    }
+                  },
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
+                "@ondc/org/item_quantity": {
+                  "count": 2
+                },
+                "@ondc/org/title_type": "item"
+              },
+              {
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -1897,7 +1987,7 @@
                   "value": "1.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -1924,7 +2014,7 @@
                 "title": "Chicken Fillet Nugget Snack",
                 "price": {
                   "currency": "INR",
-                  "value": "319.00"
+                  "value": "638.00"
                 },
                 "item": {
                   "price": {
@@ -1942,7 +2032,7 @@
                 },
                 "@ondc/org/item_id": "663b452a5123b55984298e8e",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -1952,7 +2042,7 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "15.95"
+                  "value": "31.90"
                 }
               },
               {
@@ -1980,9 +2070,9 @@
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "0037e826-d753-4420-865c-4c0146bc4200",
-        "message_id": "30f2a20e-5dc9-497f-babb-b6addc88d653",
-        "timestamp": "2024-10-04T11:32:31.609Z",
+        "transaction_id": "7dde3b83-fdb7-49bf-940a-c581a9f5723b",
+        "message_id": "a46c7101-38aa-4a49-a531-869eeb49a060",
+        "timestamp": "2024-10-16T14:11:29.240Z",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "ttl": "PT30S"
       },
@@ -2000,7 +2090,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2014,13 +2104,13 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             },
             {
-              "id": "66fed34b59de88de3e92a09a",
+              "id": "66fed30e59de88de3e92a098",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2044,12 +2134,12 @@
                 }
               ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd14f5746e8a95b077845",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2073,12 +2163,12 @@
                 }
               ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd15b5746e8a95b077846",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2102,12 +2192,12 @@
                 }
               ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
-              "id": "663bd1455746e8a95b077844",
+              "id": "66feda0259de88de3e92a09e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2131,12 +2221,41 @@
                 }
               ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
+            },
+            {
+              "id": "663bd1655746e8a95b077847",
+              "quantity": {
+                "count": 2
+              },
+              "location_id": "PL_663b43b55123b55984298e82",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "0000CG135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ],
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663b452a5123b55984298e8e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
@@ -2155,8 +2274,8 @@
             "phone": "7337451108",
             "name": "integrations-hithesh",
             "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-10-04T11:32:31.609Z",
-            "updated_at": "2024-10-04T11:32:31.609Z"
+            "created_at": "2024-10-16T14:11:29.240Z",
+            "updated_at": "2024-10-16T14:11:29.240Z"
           },
           "fulfillments": [
             {
@@ -2196,9 +2315,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "0037e826-d753-4420-865c-4c0146bc4200",
-        "message_id": "30f2a20e-5dc9-497f-babb-b6addc88d653",
-        "timestamp": "2024-10-04T11:32:31.812Z"
+        "transaction_id": "7dde3b83-fdb7-49bf-940a-c581a9f5723b",
+        "message_id": "a46c7101-38aa-4a49-a531-869eeb49a060",
+        "timestamp": "2024-10-16T14:11:29.429Z"
       },
       "message": {
         "order": {
@@ -2206,7 +2325,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2220,13 +2339,13 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             },
             {
-              "id": "66fed34b59de88de3e92a09a",
+              "id": "66fed30e59de88de3e92a098",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2250,12 +2369,12 @@
                 }
               ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd14f5746e8a95b077845",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2279,12 +2398,12 @@
                 }
               ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd15b5746e8a95b077846",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2308,12 +2427,12 @@
                 }
               ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
-              "id": "663bd1455746e8a95b077844",
+              "id": "66feda0259de88de3e92a09e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "tags": [
@@ -2337,12 +2456,41 @@
                 }
               ],
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
+            },
+            {
+              "id": "663bd1655746e8a95b077847",
+              "quantity": {
+                "count": 2
+              },
+              "location_id": "PL_663b43b55123b55984298e82",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "0000CG135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ],
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663b452a5123b55984298e8e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "location_id": "PL_663b43b55123b55984298e82",
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
@@ -2361,8 +2509,8 @@
             "phone": "7337451108",
             "name": "integrations-hithesh",
             "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-10-04T11:32:31.609Z",
-            "updated_at": "2024-10-04T11:32:31.609Z"
+            "created_at": "2024-10-16T14:11:29.240Z",
+            "updated_at": "2024-10-16T14:11:29.240Z"
           },
           "fulfillments": [
             {
@@ -2392,21 +2540,21 @@
           "quote": {
             "price": {
               "currency": "INR",
-              "value": "623.95"
+              "value": "1147.90"
             },
             "breakup": [
               {
                 "title": "NonVeg Loaded Pizza",
                 "price": {
                   "currency": "INR",
-                  "value": "100.00"
+                  "value": "200.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "100.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -2421,7 +2569,7 @@
                 },
                 "@ondc/org/item_id": "663b44b15123b55984298e83",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -2431,10 +2579,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "5.00"
+                  "value": "10.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -2449,7 +2597,7 @@
                 }
               },
               {
-                "title": "medium",
+                "title": "regular",
                 "price": {
                   "currency": "INR",
                   "value": "20.00"
@@ -2457,9 +2605,9 @@
                 "item": {
                   "price": {
                     "currency": "INR",
-                    "value": "20.00"
+                    "value": "10.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -2481,14 +2629,14 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -2496,7 +2644,7 @@
                   "value": "1.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -2523,14 +2671,14 @@
                 "title": "Jalapenos",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -2554,7 +2702,7 @@
                 },
                 "@ondc/org/item_id": "663bd14f5746e8a95b077845",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -2564,10 +2712,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "1.00"
+                  "value": "2.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -2594,14 +2742,14 @@
                 "title": "Corn",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -2625,7 +2773,7 @@
                 },
                 "@ondc/org/item_id": "663bd15b5746e8a95b077846",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -2635,10 +2783,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "1.00"
+                  "value": "2.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -2662,17 +2810,17 @@
                 }
               },
               {
-                "title": "Egg",
+                "title": "Mushroom",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -2694,14 +2842,85 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
+                "title": "Tax",
+                "@ondc/org/title_type": "tax",
+                "price": {
+                  "currency": "INR",
+                  "value": "2.00"
+                },
+                "item": {
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Cheese",
+                "price": {
+                  "currency": "INR",
+                  "value": "20.00"
+                },
+                "item": {
+                  "price": {
+                    "currency": "INR",
+                    "value": "10.00"
+                  },
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
+                "@ondc/org/item_quantity": {
+                  "count": 2
+                },
+                "@ondc/org/title_type": "item"
+              },
+              {
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -2709,7 +2928,7 @@
                   "value": "1.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -2736,7 +2955,7 @@
                 "title": "Chicken Fillet Nugget Snack",
                 "price": {
                   "currency": "INR",
-                  "value": "319.00"
+                  "value": "638.00"
                 },
                 "item": {
                   "price": {
@@ -2746,7 +2965,7 @@
                 },
                 "@ondc/org/item_id": "663b452a5123b55984298e8e",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -2756,7 +2975,7 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "15.95"
+                  "value": "31.90"
                 }
               },
               {
@@ -2828,15 +3047,15 @@
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "0037e826-d753-4420-865c-4c0146bc4200",
-        "message_id": "9e787ca3-d51a-4a5f-a4be-6b38e402deff",
-        "timestamp": "2024-10-04T11:32:58.949Z",
+        "transaction_id": "7dde3b83-fdb7-49bf-940a-c581a9f5723b",
+        "message_id": "be950adb-6f26-4ca0-90df-5664d5bc41ad",
+        "timestamp": "2024-10-16T14:11:56.471Z",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
-          "id": "2024-10-04-899859",
+          "id": "2024-10-16-420712",
           "state": "Created",
           "billing": {
             "address": {
@@ -2851,14 +3070,14 @@
             "phone": "7337451108",
             "name": "integrations-hithesh",
             "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-10-04T11:32:31.609Z",
-            "updated_at": "2024-10-04T11:32:31.609Z"
+            "created_at": "2024-10-16T14:11:29.240Z",
+            "updated_at": "2024-10-16T14:11:29.240Z"
           },
           "items": [
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -2872,12 +3091,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
-              "id": "66fed34b59de88de3e92a09a",
+              "id": "66fed30e59de88de3e92a098",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -2900,12 +3119,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd14f5746e8a95b077845",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -2928,12 +3147,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd15b5746e8a95b077846",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -2956,12 +3175,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
-              "id": "663bd1455746e8a95b077844",
+              "id": "66feda0259de88de3e92a09e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -2984,12 +3203,40 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
+            },
+            {
+              "id": "663bd1655746e8a95b077847",
+              "quantity": {
+                "count": 2
+              },
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "0000CG135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ],
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663b452a5123b55984298e8e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
@@ -3035,9 +3282,9 @@
             "uri": "https://razorpay.com/",
             "tl_method": "http/get",
             "params": {
-              "amount": "623.95",
+              "amount": "1147.90",
               "currency": "INR",
-              "transaction_id": "order_P4wfthtiMY0P9A"
+              "transaction_id": "order_P9jnG07zYdrdaU"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -3061,21 +3308,21 @@
           "quote": {
             "price": {
               "currency": "INR",
-              "value": "623.95"
+              "value": "1147.90"
             },
             "breakup": [
               {
                 "title": "NonVeg Loaded Pizza",
                 "price": {
                   "currency": "INR",
-                  "value": "100.00"
+                  "value": "200.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "100.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -3090,7 +3337,7 @@
                 },
                 "@ondc/org/item_id": "663b44b15123b55984298e83",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -3100,10 +3347,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "5.00"
+                  "value": "10.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -3118,7 +3365,7 @@
                 }
               },
               {
-                "title": "medium",
+                "title": "regular",
                 "price": {
                   "currency": "INR",
                   "value": "20.00"
@@ -3126,9 +3373,9 @@
                 "item": {
                   "price": {
                     "currency": "INR",
-                    "value": "20.00"
+                    "value": "10.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3150,14 +3397,14 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -3165,7 +3412,7 @@
                   "value": "1.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3192,14 +3439,14 @@
                 "title": "Jalapenos",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3223,7 +3470,7 @@
                 },
                 "@ondc/org/item_id": "663bd14f5746e8a95b077845",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -3233,10 +3480,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "1.00"
+                  "value": "2.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3263,14 +3510,14 @@
                 "title": "Corn",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3294,7 +3541,7 @@
                 },
                 "@ondc/org/item_id": "663bd15b5746e8a95b077846",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -3304,10 +3551,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "1.00"
+                  "value": "2.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3331,17 +3578,17 @@
                 }
               },
               {
-                "title": "Egg",
+                "title": "Mushroom",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3363,14 +3610,85 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
+                "title": "Tax",
+                "@ondc/org/title_type": "tax",
+                "price": {
+                  "currency": "INR",
+                  "value": "2.00"
+                },
+                "item": {
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Cheese",
+                "price": {
+                  "currency": "INR",
+                  "value": "20.00"
+                },
+                "item": {
+                  "price": {
+                    "currency": "INR",
+                    "value": "10.00"
+                  },
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
+                "@ondc/org/item_quantity": {
+                  "count": 2
+                },
+                "@ondc/org/title_type": "item"
+              },
+              {
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -3378,7 +3696,7 @@
                   "value": "1.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3405,7 +3723,7 @@
                 "title": "Chicken Fillet Nugget Snack",
                 "price": {
                   "currency": "INR",
-                  "value": "319.00"
+                  "value": "638.00"
                 },
                 "item": {
                   "price": {
@@ -3415,7 +3733,7 @@
                 },
                 "@ondc/org/item_id": "663b452a5123b55984298e8e",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -3425,7 +3743,7 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "15.95"
+                  "value": "31.90"
                 }
               },
               {
@@ -3468,8 +3786,8 @@
               ]
             }
           ],
-          "created_at": "2024-10-04T11:32:58.949Z",
-          "updated_at": "2024-10-04T11:32:58.949Z"
+          "created_at": "2024-10-16T14:11:56.471Z",
+          "updated_at": "2024-10-16T14:11:56.471Z"
         }
       }
     },
@@ -3484,13 +3802,13 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "0037e826-d753-4420-865c-4c0146bc4200",
-        "message_id": "9e787ca3-d51a-4a5f-a4be-6b38e402deff",
-        "timestamp": "2024-10-04T11:32:59.195Z"
+        "transaction_id": "7dde3b83-fdb7-49bf-940a-c581a9f5723b",
+        "message_id": "be950adb-6f26-4ca0-90df-5664d5bc41ad",
+        "timestamp": "2024-10-16T14:11:56.762Z"
       },
       "message": {
         "order": {
-          "id": "2024-10-04-899859",
+          "id": "2024-10-16-420712",
           "state": "Created",
           "billing": {
             "address": {
@@ -3505,8 +3823,8 @@
             "phone": "7337451108",
             "name": "integrations-hithesh",
             "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-10-04T11:32:31.609Z",
-            "updated_at": "2024-10-04T11:32:31.609Z"
+            "created_at": "2024-10-16T14:11:29.240Z",
+            "updated_at": "2024-10-16T14:11:29.240Z"
           },
           "fulfillments": [
             {
@@ -3534,6 +3852,12 @@
                     "state": "Karnataka"
                   }
                 },
+                "time": {
+                  "range": {
+                    "end": "2024-10-16T14:26:56.762Z",
+                    "start": "2024-10-16T14:21:56.762Z"
+                  }
+                },
                 "contact": {
                   "phone": "7880500880",
                   "email": "help@dailybee.in"
@@ -3558,6 +3882,12 @@
                     "country": "IND",
                     "area_code": "560103"
                   }
+                },
+                "time": {
+                  "range": {
+                    "end": "2024-10-16T15:11:56.762Z",
+                    "start": "2024-10-16T14:56:56.762Z"
+                  }
                 }
               }
             }
@@ -3566,7 +3896,7 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -3580,12 +3910,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
-              "id": "66fed34b59de88de3e92a09a",
+              "id": "66fed30e59de88de3e92a098",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -3608,12 +3938,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd14f5746e8a95b077845",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -3636,12 +3966,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663bd15b5746e8a95b077846",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -3664,12 +3994,12 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
             },
             {
-              "id": "663bd1455746e8a95b077844",
+              "id": "66feda0259de88de3e92a09e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
               "tags": [
@@ -3692,12 +4022,40 @@
                   ]
                 }
               ],
-              "parent_item_id": "SDqLQC42yBzh"
+              "parent_item_id": "6jjXDXG94331"
+            },
+            {
+              "id": "663bd1655746e8a95b077847",
+              "quantity": {
+                "count": 2
+              },
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "0000CG135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ],
+              "parent_item_id": "6jjXDXG94331"
             },
             {
               "id": "663b452a5123b55984298e8e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82"
             }
@@ -3706,9 +4064,9 @@
             "uri": "https://razorpay.com/",
             "tl_method": "http/get",
             "params": {
-              "amount": "623.95",
+              "amount": "1147.90",
               "currency": "INR",
-              "transaction_id": "order_P4wfthtiMY0P9A"
+              "transaction_id": "order_P9jnG07zYdrdaU"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -3740,21 +4098,21 @@
           "quote": {
             "price": {
               "currency": "INR",
-              "value": "623.95"
+              "value": "1147.90"
             },
             "breakup": [
               {
                 "title": "NonVeg Loaded Pizza",
                 "price": {
                   "currency": "INR",
-                  "value": "100.00"
+                  "value": "200.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "100.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -3769,7 +4127,7 @@
                 },
                 "@ondc/org/item_id": "663b44b15123b55984298e83",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -3779,10 +4137,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "5.00"
+                  "value": "10.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -3797,7 +4155,7 @@
                 }
               },
               {
-                "title": "medium",
+                "title": "regular",
                 "price": {
                   "currency": "INR",
                   "value": "20.00"
@@ -3805,9 +4163,9 @@
                 "item": {
                   "price": {
                     "currency": "INR",
-                    "value": "20.00"
+                    "value": "10.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3829,14 +4187,14 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -3844,7 +4202,7 @@
                   "value": "1.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3871,14 +4229,14 @@
                 "title": "Jalapenos",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3902,7 +4260,7 @@
                 },
                 "@ondc/org/item_id": "663bd14f5746e8a95b077845",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -3912,10 +4270,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "1.00"
+                  "value": "2.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3942,14 +4300,14 @@
                 "title": "Corn",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -3973,7 +4331,7 @@
                 },
                 "@ondc/org/item_id": "663bd15b5746e8a95b077846",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -3983,10 +4341,10 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "1.00"
+                  "value": "2.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -4010,17 +4368,17 @@
                 }
               },
               {
-                "title": "Egg",
+                "title": "Mushroom",
                 "price": {
                   "currency": "INR",
-                  "value": "20.00"
+                  "value": "40.00"
                 },
                 "item": {
                   "price": {
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -4042,14 +4400,85 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
+                "title": "Tax",
+                "@ondc/org/title_type": "tax",
+                "price": {
+                  "currency": "INR",
+                  "value": "2.00"
+                },
+                "item": {
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Cheese",
+                "price": {
+                  "currency": "INR",
+                  "value": "20.00"
+                },
+                "item": {
+                  "price": {
+                    "currency": "INR",
+                    "value": "10.00"
+                  },
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
+                "@ondc/org/item_quantity": {
+                  "count": 2
+                },
+                "@ondc/org/title_type": "item"
+              },
+              {
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -4057,7 +4486,7 @@
                   "value": "1.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -4084,7 +4513,7 @@
                 "title": "Chicken Fillet Nugget Snack",
                 "price": {
                   "currency": "INR",
-                  "value": "319.00"
+                  "value": "638.00"
                 },
                 "item": {
                   "price": {
@@ -4094,7 +4523,7 @@
                 },
                 "@ondc/org/item_id": "663b452a5123b55984298e8e",
                 "@ondc/org/item_quantity": {
-                  "count": 1
+                  "count": 2
                 },
                 "@ondc/org/title_type": "item"
               },
@@ -4104,7 +4533,7 @@
                 "@ondc/org/title_type": "tax",
                 "price": {
                   "currency": "INR",
-                  "value": "15.95"
+                  "value": "31.90"
                 }
               },
               {
@@ -4147,8 +4576,8 @@
               ]
             }
           ],
-          "created_at": "2024-10-04T11:32:58.949Z",
-          "updated_at": "2024-10-04T11:32:59.195Z"
+          "created_at": "2024-10-16T14:11:56.471Z",
+          "updated_at": "2024-10-16T14:11:56.762Z"
         }
       }
     },
@@ -4162,14 +4591,14 @@
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "0037e826-d753-4420-865c-4c0146bc4200",
-        "message_id": "5dfbee47-af0a-4f76-810c-6b07752363fb",
-        "timestamp": "2024-10-04T11:34:36.358Z",
+        "transaction_id": "7dde3b83-fdb7-49bf-940a-c581a9f5723b",
+        "message_id": "d07948b3-f0d8-4a89-a982-e95f62a6f895",
+        "timestamp": "2024-10-16T14:13:01.344Z",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "ttl": "PT30S"
       },
       "message": {
-        "order_id": "2024-10-04-899859",
+        "order_id": "2024-10-16-420712",
         "cancellation_reason_id": "003"
       }
     },
@@ -4184,14 +4613,14 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "0037e826-d753-4420-865c-4c0146bc4200",
-        "message_id": "5dfbee47-af0a-4f76-810c-6b07752363fb",
-        "timestamp": "2024-10-04T11:34:36.645Z",
+        "transaction_id": "7dde3b83-fdb7-49bf-940a-c581a9f5723b",
+        "message_id": "d07948b3-f0d8-4a89-a982-e95f62a6f895",
+        "timestamp": "2024-10-16T14:13:01.631Z",
         "ttl": "PT30S"
       },
       "message": {
         "order": {
-          "id": "2024-10-04-899859",
+          "id": "2024-10-16-420712",
           "state": "Cancelled",
           "provider": {
             "id": "663b43b55123b55984298e82",
@@ -4208,7 +4637,7 @@
                 "count": 0
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "type",
@@ -4222,12 +4651,12 @@
               ]
             },
             {
-              "id": "66fed34b59de88de3e92a09a",
+              "id": "66fed30e59de88de3e92a098",
               "quantity": {
                 "count": 0
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -4255,7 +4684,7 @@
                 "count": 0
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -4283,7 +4712,7 @@
                 "count": 0
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -4306,12 +4735,40 @@
               ]
             },
             {
-              "id": "663bd1455746e8a95b077844",
+              "id": "66feda0259de88de3e92a09e",
               "quantity": {
                 "count": 0
               },
               "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "0000CG135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "663bd1655746e8a95b077847",
+              "quantity": {
+                "count": 0
+              },
+              "fulfillment_id": "SD_PL_663b43b55123b55984298e82",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -4343,10 +4800,10 @@
             {
               "id": "663b44b15123b55984298e83",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "C1",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "type",
@@ -4360,12 +4817,12 @@
               ]
             },
             {
-              "id": "66fed34b59de88de3e92a09a",
+              "id": "66fed30e59de88de3e92a098",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "C1",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -4390,10 +4847,10 @@
             {
               "id": "663bd14f5746e8a95b077845",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "C1",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -4418,10 +4875,10 @@
             {
               "id": "663bd15b5746e8a95b077846",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "C1",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -4444,12 +4901,40 @@
               ]
             },
             {
-              "id": "663bd1455746e8a95b077844",
+              "id": "66feda0259de88de3e92a09e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "C1",
-              "parent_item_id": "SDqLQC42yBzh",
+              "parent_item_id": "6jjXDXG94331",
+              "tags": [
+                {
+                  "code": "parent",
+                  "list": [
+                    {
+                      "code": "id",
+                      "value": "0000CG135699"
+                    }
+                  ]
+                },
+                {
+                  "code": "type",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "customization"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "663bd1655746e8a95b077847",
+              "quantity": {
+                "count": 2
+              },
+              "fulfillment_id": "C1",
+              "parent_item_id": "6jjXDXG94331",
               "tags": [
                 {
                   "code": "parent",
@@ -4474,7 +4959,7 @@
             {
               "id": "663b452a5123b55984298e8e",
               "quantity": {
-                "count": 1
+                "count": 2
               },
               "fulfillment_id": "C1"
             }
@@ -4492,8 +4977,8 @@
             "phone": "7337451108",
             "name": "integrations-hithesh",
             "email": "hitheshlade1214@gmail.com",
-            "created_at": "2024-10-04T11:32:31.609Z",
-            "updated_at": "2024-10-04T11:32:31.609Z"
+            "created_at": "2024-10-16T14:11:29.240Z",
+            "updated_at": "2024-10-16T14:11:29.240Z"
           },
           "cancellation": {
             "cancelled_by": "buyer-app-preprod-v2.ondc.org",
@@ -4529,8 +5014,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-10-04T12:32:59.195Z",
-                    "start": "2024-10-04T12:02:59.195Z"
+                    "end": "2024-10-16T14:26:56.762Z",
+                    "start": "2024-10-16T14:21:56.762Z"
                   }
                 },
                 "contact": {
@@ -4560,8 +5045,8 @@
                 },
                 "time": {
                   "range": {
-                    "end": "2024-10-04T22:02:59.195Z",
-                    "start": "2024-10-04T21:32:59.195Z"
+                    "end": "2024-10-16T15:11:56.762Z",
+                    "start": "2024-10-16T14:56:56.762Z"
                   }
                 }
               },
@@ -4588,7 +5073,7 @@
                     },
                     {
                       "code": "updated_at",
-                      "value": "2024-10-04T11:32:59.195Z"
+                      "value": "2024-10-16T14:11:56.762Z"
                     }
                   ]
                 }
@@ -4620,7 +5105,7 @@
                     },
                     {
                       "code": "value",
-                      "value": "-100.00"
+                      "value": "-200.00"
                     },
                     {
                       "code": "subtype",
@@ -4645,7 +5130,7 @@
                     },
                     {
                       "code": "value",
-                      "value": "-5.00"
+                      "value": "-10.00"
                     },
                     {
                       "code": "subtype",
@@ -4662,7 +5147,7 @@
                     },
                     {
                       "code": "id",
-                      "value": "66fed34b59de88de3e92a09a"
+                      "value": "66fed30e59de88de3e92a098"
                     },
                     {
                       "code": "currency",
@@ -4687,7 +5172,7 @@
                     },
                     {
                       "code": "id",
-                      "value": "66fed34b59de88de3e92a09a"
+                      "value": "66fed30e59de88de3e92a098"
                     },
                     {
                       "code": "currency",
@@ -4720,7 +5205,7 @@
                     },
                     {
                       "code": "value",
-                      "value": "-20.00"
+                      "value": "-40.00"
                     },
                     {
                       "code": "subtype",
@@ -4745,7 +5230,7 @@
                     },
                     {
                       "code": "value",
-                      "value": "-1.00"
+                      "value": "-2.00"
                     },
                     {
                       "code": "subtype",
@@ -4770,7 +5255,7 @@
                     },
                     {
                       "code": "value",
-                      "value": "-20.00"
+                      "value": "-40.00"
                     },
                     {
                       "code": "subtype",
@@ -4795,7 +5280,7 @@
                     },
                     {
                       "code": "value",
-                      "value": "-1.00"
+                      "value": "-2.00"
                     },
                     {
                       "code": "subtype",
@@ -4812,7 +5297,57 @@
                     },
                     {
                       "code": "id",
-                      "value": "663bd1455746e8a95b077844"
+                      "value": "66feda0259de88de3e92a09e"
+                    },
+                    {
+                      "code": "currency",
+                      "value": "INR"
+                    },
+                    {
+                      "code": "value",
+                      "value": "-40.00"
+                    },
+                    {
+                      "code": "subtype",
+                      "value": "customization"
+                    }
+                  ]
+                },
+                {
+                  "code": "quote_trail",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "tax"
+                    },
+                    {
+                      "code": "id",
+                      "value": "66feda0259de88de3e92a09e"
+                    },
+                    {
+                      "code": "currency",
+                      "value": "INR"
+                    },
+                    {
+                      "code": "value",
+                      "value": "-2.00"
+                    },
+                    {
+                      "code": "subtype",
+                      "value": "customization"
+                    }
+                  ]
+                },
+                {
+                  "code": "quote_trail",
+                  "list": [
+                    {
+                      "code": "type",
+                      "value": "item"
+                    },
+                    {
+                      "code": "id",
+                      "value": "663bd1655746e8a95b077847"
                     },
                     {
                       "code": "currency",
@@ -4837,7 +5372,7 @@
                     },
                     {
                       "code": "id",
-                      "value": "663bd1455746e8a95b077844"
+                      "value": "663bd1655746e8a95b077847"
                     },
                     {
                       "code": "currency",
@@ -4870,7 +5405,7 @@
                     },
                     {
                       "code": "value",
-                      "value": "-319.00"
+                      "value": "-638.00"
                     }
                   ]
                 },
@@ -4891,7 +5426,7 @@
                     },
                     {
                       "code": "value",
-                      "value": "-15.95"
+                      "value": "-31.90"
                     }
                   ]
                 },
@@ -4936,7 +5471,7 @@
                     "currency": "INR",
                     "value": "100.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -4964,7 +5499,7 @@
                   "value": "0.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "type",
@@ -4979,7 +5514,7 @@
                 }
               },
               {
-                "title": "medium",
+                "title": "regular",
                 "price": {
                   "currency": "INR",
                   "value": "0.00"
@@ -4987,9 +5522,9 @@
                 "item": {
                   "price": {
                     "currency": "INR",
-                    "value": "20.00"
+                    "value": "10.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -5011,14 +5546,14 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "@ondc/org/item_quantity": {
                   "count": 0
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "66fed34b59de88de3e92a09a",
+                "@ondc/org/item_id": "66fed30e59de88de3e92a098",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -5026,7 +5561,7 @@
                   "value": "0.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -5060,7 +5595,7 @@
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -5097,7 +5632,7 @@
                   "value": "0.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -5131,7 +5666,7 @@
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -5168,7 +5703,7 @@
                   "value": "0.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -5192,7 +5727,7 @@
                 }
               },
               {
-                "title": "Egg",
+                "title": "Mushroom",
                 "price": {
                   "currency": "INR",
                   "value": "0.00"
@@ -5202,7 +5737,7 @@
                     "currency": "INR",
                     "value": "20.00"
                   },
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -5224,14 +5759,14 @@
                     }
                   ]
                 },
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
                 "@ondc/org/item_quantity": {
                   "count": 0
                 },
                 "@ondc/org/title_type": "item"
               },
               {
-                "@ondc/org/item_id": "663bd1455746e8a95b077844",
+                "@ondc/org/item_id": "66feda0259de88de3e92a09e",
                 "title": "Tax",
                 "@ondc/org/title_type": "tax",
                 "price": {
@@ -5239,7 +5774,78 @@
                   "value": "0.00"
                 },
                 "item": {
-                  "parent_item_id": "SDqLQC42yBzh",
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "title": "Cheese",
+                "price": {
+                  "currency": "INR",
+                  "value": "0.00"
+                },
+                "item": {
+                  "price": {
+                    "currency": "INR",
+                    "value": "10.00"
+                  },
+                  "parent_item_id": "6jjXDXG94331",
+                  "tags": [
+                    {
+                      "code": "parent",
+                      "list": [
+                        {
+                          "code": "id",
+                          "value": "0000CG135699"
+                        }
+                      ]
+                    },
+                    {
+                      "code": "type",
+                      "list": [
+                        {
+                          "code": "type",
+                          "value": "customization"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
+                "@ondc/org/item_quantity": {
+                  "count": 0
+                },
+                "@ondc/org/title_type": "item"
+              },
+              {
+                "@ondc/org/item_id": "663bd1655746e8a95b077847",
+                "title": "Tax",
+                "@ondc/org/title_type": "tax",
+                "price": {
+                  "currency": "INR",
+                  "value": "0.00"
+                },
+                "item": {
+                  "parent_item_id": "6jjXDXG94331",
                   "tags": [
                     {
                       "code": "parent",
@@ -5305,9 +5911,9 @@
             "uri": "https://razorpay.com/",
             "tl_method": "http/get",
             "params": {
-              "amount": "623.95",
+              "amount": "1147.90",
               "currency": "INR",
-              "transaction_id": "order_P4wfthtiMY0P9A"
+              "transaction_id": "order_P9jnG07zYdrdaU"
             },
             "status": "PAID",
             "type": "ON-ORDER",
@@ -5328,8 +5934,8 @@
               }
             ]
           },
-          "created_at": "2024-10-04T11:32:58.949Z",
-          "updated_at": "2024-10-04T11:34:36.645Z"
+          "created_at": "2024-10-16T14:11:56.471Z",
+          "updated_at": "2024-10-16T14:13:01.631Z"
         }
       }
     }
