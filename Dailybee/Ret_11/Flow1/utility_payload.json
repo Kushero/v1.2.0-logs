@@ -14,9 +14,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "825984c3-f90c-4efa-a3cc-09f73f97ea1e",
-        "message_id": "6a1d63a4-4ec3-4ef6-b490-101449fc6398",
-        "timestamp": "2024-10-04T09:21:36.035Z",
+        "transaction_id": "529dceb1-fb0d-4de8-875f-f62862cab744",
+        "message_id": "6060ac31-ad0b-4d23-b09d-a432435954a7",
+        "timestamp": "2024-10-16T07:52:45.123Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -42,9 +42,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "825984c3-f90c-4efa-a3cc-09f73f97ea1e",
-        "message_id": "6a1d63a4-4ec3-4ef6-b490-101449fc6398",
-        "timestamp": "2024-10-04T09:22:36.035Z",
+        "transaction_id": "529dceb1-fb0d-4de8-875f-f62862cab744",
+        "message_id": "6060ac31-ad0b-4d23-b09d-a432435954a7",
+        "timestamp": "2024-10-16T07:54:34.619Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -80,7 +80,7 @@
               "id": "663b43b55123b55984298e82",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-04T09:22:36.035Z"
+                "timestamp": "2024-10-16T07:54:34.619Z"
               },
               "fulfillments": [
                 {
@@ -107,7 +107,7 @@
                   "id": "PL_663b43b55123b55984298e82",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-04T09:22:36.035Z",
+                    "timestamp": "2024-10-16T07:54:34.619Z",
                     "days": "1,2,3,4,5,6,7",
                     "schedule": {
                       "holidays": []
@@ -213,7 +213,7 @@
                   "id": "663b44b15123b55984298e83",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-04T09:22:36.035Z"
+                    "timestamp": "2024-10-16T07:54:34.619Z"
                   },
                   "descriptor": {
                     "name": "NonVeg Loaded Pizza",
@@ -304,27 +304,6 @@
                       ]
                     },
                     {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
-                    {
                       "code": "veg_nonveg",
                       "list": [
                         {
@@ -339,7 +318,7 @@
                   "id": "663b452a5123b55984298e8e",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-04T09:22:36.035Z"
+                    "timestamp": "2024-10-16T07:54:34.619Z"
                   },
                   "descriptor": {
                     "name": "Chicken Fillet Nugget Snack",
@@ -383,27 +362,6 @@
                   "@ondc/org/available_on_cod": false,
                   "@ondc/org/contact_details_consumer_care": "Ramesh,ramesh@abc.com,18004254444",
                   "tags": [
-                    {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
                     {
                       "code": "veg_nonveg",
                       "list": [
@@ -1203,9 +1161,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "7a85a5bc-9aa7-4dde-814b-1fddcce5fa5a",
-        "message_id": "2278e454-6bbc-4b1f-a894-b7fdafc44712",
-        "timestamp": "2024-10-04T09:25:36.035Z",
+        "transaction_id": "2f2ea47e-de51-4b67-ab45-f722b937e0ba",
+        "message_id": "5a7a6bff-badd-4806-bce5-fff301d31ba1",
+        "timestamp": "2024-10-16T07:57:22.323Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -1239,9 +1197,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "7a85a5bc-9aa7-4dde-814b-1fddcce5fa5a",
-        "message_id": "a45cd195-02cb-495d-af97-0e526ee3d52f",
-        "timestamp": "2024-10-04T09:27:36.035Z",
+        "transaction_id": "2f2ea47e-de51-4b67-ab45-f722b937e0ba",
+        "message_id": "cd8fc124-506b-450a-9da8-2db4094ab397",
+        "timestamp": "2024-10-16T07:59:47.197Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -1254,7 +1212,7 @@
                   "id": "663b452a5123b55984298e8e",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-04T09:22:36.035Z"
+                    "timestamp": "2024-10-16T07:56:18.118Z"
                   },
                   "descriptor": {
                     "name": "Chicken Fillet Nugget Snack",
@@ -1276,7 +1234,7 @@
                       "count": "0"
                     },
                     "maximum": {
-                      "count": "15"
+                      "count": "0"
                     }
                   },
                   "price": {
@@ -1299,87 +1257,11 @@
                   "@ondc/org/contact_details_consumer_care": "Ramesh,ramesh@abc.com,18004254444",
                   "tags": [
                     {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
-                    {
                       "code": "veg_nonveg",
                       "list": [
                         {
                           "code": "non_veg",
                           "value": "yes"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "categories": [
-                {
-                  "id": "00000CM76685",
-                  "parent_category_id": "",
-                  "descriptor": {
-                    "name": "Chicken items",
-                    "short_desc": "Chicken",
-                    "long_desc": "Chicken",
-                    "images": [
-                      "https://assets.dlyb.in/thumbs/logo-grayscale.png"
-                    ]
-                  },
-                  "tags": [
-                    {
-                      "code": "type",
-                      "list": [
-                        {
-                          "code": "type",
-                          "value": "custom_menu"
-                        }
-                      ]
-                    },
-                    {
-                      "code": "timing",
-                      "list": [
-                        {
-                          "code": "day_from",
-                          "value": "1"
-                        },
-                        {
-                          "code": "day_to",
-                          "value": "7"
-                        },
-                        {
-                          "code": "time_from",
-                          "value": "0700"
-                        },
-                        {
-                          "code": "time_to",
-                          "value": "2300"
-                        }
-                      ]
-                    },
-                    {
-                      "code": "display",
-                      "list": [
-                        {
-                          "code": "rank",
-                          "value": "1"
                         }
                       ]
                     }
