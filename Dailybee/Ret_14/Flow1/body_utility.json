@@ -14,9 +14,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "72d9b4ce-bcf8-4615-a17f-5aaeff14281e",
-        "message_id": "64ca2746-55cf-4566-988a-96b62becc77a",
-        "timestamp": "2024-10-15T07:36:30.359Z",
+        "transaction_id": "c2c5d4e7-a913-41aa-b4b0-f3bac0effd4d",
+        "message_id": "460b07a6-0728-4c72-be3e-d26c08c82bea",
+        "timestamp": "2024-10-21T13:34:45.460Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -42,9 +42,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "72d9b4ce-bcf8-4615-a17f-5aaeff14281e",
-        "message_id": "64ca2746-55cf-4566-988a-96b62becc77a",
-        "timestamp": "2024-10-15T07:37:02.149Z",
+        "transaction_id": "c2c5d4e7-a913-41aa-b4b0-f3bac0effd4d",
+        "message_id": "460b07a6-0728-4c72-be3e-d26c08c82bea",
+        "timestamp": "2024-10-21T13:36:15.312Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -80,7 +80,7 @@
               "id": "66f1081e0bd0da4b98dd3ba6",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-15T07:37:02.149Z"
+                "timestamp": "2024-10-21T13:36:15.312Z"
               },
               "fulfillments": [
                 {
@@ -107,7 +107,7 @@
                   "id": "PL_66f1081e0bd0da4b98dd3ba6",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-15T07:37:02.149Z",
+                    "timestamp": "2024-10-21T13:36:15.312Z",
                     "days": "1,2,3,4,5,6,7",
                     "schedule": {
                       "holidays": []
@@ -222,7 +222,7 @@
                   "location_id": "PL_66f1081e0bd0da4b98dd3ba6",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-15T07:37:02.149Z"
+                    "timestamp": "2024-10-21T13:36:15.312Z"
                   },
                   "related": true,
                   "recommended": true,
@@ -398,7 +398,7 @@
                   "location_id": "PL_66f1081e0bd0da4b98dd3ba6",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-15T07:37:02.149Z"
+                    "timestamp": "2024-10-21T13:36:15.312Z"
                   },
                   "related": true,
                   "recommended": true,
@@ -574,7 +574,7 @@
                   "location_id": "PL_66f1081e0bd0da4b98dd3ba6",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-15T07:37:02.149Z"
+                    "timestamp": "2024-10-21T13:36:15.312Z"
                   },
                   "related": true,
                   "recommended": true,
@@ -750,7 +750,7 @@
                   "location_id": "PL_66f1081e0bd0da4b98dd3ba6",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-15T07:37:02.149Z"
+                    "timestamp": "2024-10-21T13:36:15.312Z"
                   },
                   "related": true,
                   "recommended": true,
@@ -966,9 +966,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "11e6927e-bc17-4bd3-8189-5343e22c87fd",
-        "message_id": "f45afdcd-3edc-44d7-b7c9-33de43424375",
-        "timestamp": "2024-10-15T07:40:23.543Z",
+        "transaction_id": "db8566a1-f8c6-4beb-b277-186eb7d5025f",
+        "message_id": "a23d7805-dd41-40c2-a025-0237c8689082",
+        "timestamp": "2024-10-21T13:39:41.780Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -1002,9 +1002,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "11e6927e-bc17-4bd3-8189-5343e22c87fd",
-        "message_id": "514a568f-b45b-4d08-ae87-6a6cc98682bb",
-        "timestamp": "2024-10-15T07:42:38.149Z",
+        "transaction_id": "db8566a1-f8c6-4beb-b277-186eb7d5025f",
+        "message_id": "5a83b94a-c225-4075-8a7b-f6fd6e86578b",
+        "timestamp": "2024-10-21T13:43:22.758Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -1033,7 +1033,7 @@
                   "location_id": "PL_66f1081e0bd0da4b98dd3ba6",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-15T07:40:07.321Z"
+                    "timestamp": "2024-10-21T13:39:49.360Z"
                   },
                   "related": true,
                   "recommended": true,
@@ -1047,6 +1047,7 @@
                         }
                       ]
                     },
+
                     {
                       "code": "attribute",
                       "list": [
@@ -1168,7 +1169,7 @@
                       "count": "0"
                     },
                     "maximum": {
-                      "count": "15"
+                      "count": "0"
                     }
                   },
                   "category_id": "Mobile Phone",
@@ -1186,7 +1187,7 @@
                     "common_or_generic_name_of_commodity": "Mobile Phone",
                     "month_year_of_manufacture_packing_import": "06/2023"
                   },
-                  "parent_item_id": "V00000001"
+                  "parent_item_id": "V00000000001"
                 }
               ]
             }
