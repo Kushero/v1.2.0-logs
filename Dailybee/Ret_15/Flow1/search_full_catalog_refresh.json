@@ -7,9 +7,9 @@
     "core_version": "1.2.0",
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-    "transaction_id": "54ab2a0b-4bcc-4807-82cf-d598c9bfa3ef",
-    "message_id": "53591882-9af7-49b8-acd0-507b35ffc92b",
-    "timestamp": "2024-10-15T07:15:05.212Z",
+    "transaction_id": "87f43112-169e-43ea-bdba-43bdd2394d3e",
+    "message_id": "96cb5e15-8c5b-4a9b-a9f2-a7cd624da62e",
+    "timestamp": "2024-10-21T14:29:15.927Z",
     "ttl": "PT30S"
   },
   "message": {
