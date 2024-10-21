@@ -9,9 +9,9 @@
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "5b004808-5942-4c41-b07f-91f4747fd097",
-    "message_id": "582a2f57-2de3-47a5-a65c-2a2e2b530a4c",
-    "timestamp": "2024-10-14T18:25:20.110Z",
+    "transaction_id": "fbebfca3-ff8d-4cae-9bdd-395b22639c04",
+    "message_id": "d9882f5c-2f9c-4ee6-8e5f-c8b1643cc25f",
+    "timestamp": "2024-10-21T13:06:33.108Z",
     "ttl": "PT30S"
   },
   "message": {
@@ -41,7 +41,7 @@
               "location_id": "PL_66192927b64d471f1b337adc",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-14T18:20:20.200Z"
+                "timestamp": "2024-10-21T13:01:55.639Z"
               },
               "tags": [
                 {
@@ -74,7 +74,7 @@
                   "count": "0"
                 },
                 "maximum": {
-                  "count": "15"
+                  "count": "0"
                 }
               },
               "category_id": "Hair Oils, Care, and Styling",

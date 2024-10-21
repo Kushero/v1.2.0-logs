@@ -14,9 +14,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "b396f7c2-bf4a-49ad-9b83-92e58ff6f102",
-        "message_id": "86920d77-081d-4dc5-aa6f-6f51a3fef60a",
-        "timestamp": "2024-10-14T18:18:30.352Z",
+        "transaction_id": "133bf63a-2921-4074-860e-f5bcd55db471",
+        "message_id": "47b25d13-ce6a-4c2a-b8fb-ef080404d8fc",
+        "timestamp": "2024-10-21T12:59:22.157Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -42,9 +42,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "b396f7c2-bf4a-49ad-9b83-92e58ff6f102",
-        "message_id": "86920d77-081d-4dc5-aa6f-6f51a3fef60a",
-        "timestamp": "2024-10-14T18:19:54.192Z",
+        "transaction_id": "133bf63a-2921-4074-860e-f5bcd55db471",
+        "message_id": "47b25d13-ce6a-4c2a-b8fb-ef080404d8fc",
+        "timestamp": "2024-10-21T13:00:08.923Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -80,7 +80,7 @@
               "id": "66192927b64d471f1b337adc",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-14T18:19:54.192Z"
+                "timestamp": "2024-10-21T13:00:08.923Z"
               },
               "fulfillments": [
                 {
@@ -107,7 +107,7 @@
                   "id": "PL_66192927b64d471f1b337adc",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-14T18:19:54.192Z",
+                    "timestamp": "2024-10-21T13:00:08.923Z",
                     "days": "1,2,3,4,5,6,7",
                     "schedule": {
                       "holidays": []
@@ -273,7 +273,7 @@
                   "location_id": "PL_66192927b64d471f1b337adc",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-14T18:19:54.192Z"
+                    "timestamp": "2024-10-21T13:00:08.923Z"
                   },
                   "tags": [
                     {
@@ -346,7 +346,7 @@
                   "location_id": "PL_66192927b64d471f1b337adc",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-14T18:19:54.192Z"
+                    "timestamp": "2024-10-21T13:00:08.923Z"
                   },
                   "tags": [
                     {
@@ -419,7 +419,7 @@
                   "location_id": "PL_66192927b64d471f1b337adc",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-14T18:19:54.192Z"
+                    "timestamp": "2024-10-21T13:00:08.923Z"
                   },
                   "tags": [
                     {
@@ -493,7 +493,7 @@
                   "location_id": "PL_66192927b64d471f1b337adc",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-14T18:19:54.192Z"
+                    "timestamp": "2024-10-21T13:00:08.923Z"
                   },
                   "tags": [
                     {
@@ -593,9 +593,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "5b004808-5942-4c41-b07f-91f4747fd097",
-        "message_id": "c91caffc-d5aa-4891-8fde-e72787c296c3",
-        "timestamp": "2024-10-14T18:22:30.552Z",
+        "transaction_id": "fbebfca3-ff8d-4cae-9bdd-395b22639c04",
+        "message_id": "83d6c943-394a-4057-b6a6-01c7b3dcf42a",
+        "timestamp": "2024-10-21T13:03:17.319Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -629,9 +629,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "5b004808-5942-4c41-b07f-91f4747fd097",
-        "message_id": "582a2f57-2de3-47a5-a65c-2a2e2b530a4c",
-        "timestamp": "2024-10-14T18:25:20.110Z",
+        "transaction_id": "fbebfca3-ff8d-4cae-9bdd-395b22639c04",
+        "message_id": "d9882f5c-2f9c-4ee6-8e5f-c8b1643cc25f",
+        "timestamp": "2024-10-21T13:06:33.108Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -661,7 +661,7 @@
                   "location_id": "PL_66192927b64d471f1b337adc",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-14T18:20:20.200Z"
+                    "timestamp": "2024-10-21T13:01:55.639Z"
                   },
                   "tags": [
                     {
@@ -694,7 +694,7 @@
                       "count": "0"
                     },
                     "maximum": {
-                      "count": "15"
+                      "count": "0"
                     }
                   },
                   "category_id": "Hair Oils, Care, and Styling",

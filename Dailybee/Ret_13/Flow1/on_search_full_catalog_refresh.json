@@ -9,9 +9,9 @@
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "b396f7c2-bf4a-49ad-9b83-92e58ff6f102",
-    "message_id": "86920d77-081d-4dc5-aa6f-6f51a3fef60a",
-    "timestamp": "2024-10-14T18:19:54.192Z",
+    "transaction_id": "133bf63a-2921-4074-860e-f5bcd55db471",
+    "message_id": "47b25d13-ce6a-4c2a-b8fb-ef080404d8fc",
+    "timestamp": "2024-10-21T13:00:08.923Z",
     "ttl": "PT30S"
   },
   "message": {
@@ -47,7 +47,7 @@
           "id": "66192927b64d471f1b337adc",
           "time": {
             "label": "enable",
-            "timestamp": "2024-10-14T18:19:54.192Z"
+            "timestamp": "2024-10-21T13:00:08.923Z"
           },
           "fulfillments": [
             {
@@ -74,7 +74,7 @@
               "id": "PL_66192927b64d471f1b337adc",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-14T18:19:54.192Z",
+                "timestamp": "2024-10-21T13:00:08.923Z",
                 "days": "1,2,3,4,5,6,7",
                 "schedule": {
                   "holidays": []
@@ -240,7 +240,7 @@
               "location_id": "PL_66192927b64d471f1b337adc",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-14T18:19:54.192Z"
+                "timestamp": "2024-10-21T13:00:08.923Z"
               },
               "tags": [
                 {
@@ -313,7 +313,7 @@
               "location_id": "PL_66192927b64d471f1b337adc",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-14T18:19:54.192Z"
+                "timestamp": "2024-10-21T13:00:08.923Z"
               },
               "tags": [
                 {
@@ -386,7 +386,7 @@
               "location_id": "PL_66192927b64d471f1b337adc",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-14T18:19:54.192Z"
+                "timestamp": "2024-10-21T13:00:08.923Z"
               },
               "tags": [
                 {
@@ -460,7 +460,7 @@
               "location_id": "PL_66192927b64d471f1b337adc",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-14T18:19:54.192Z"
+                "timestamp": "2024-10-21T13:00:08.923Z"
               },
               "tags": [
                 {
