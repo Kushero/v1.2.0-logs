@@ -14,9 +14,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "7156a772-9251-4dac-b03e-46e9957d3ab3",
-        "message_id": "2e318452-9cc8-4443-88b1-8dc8ac6ccc9f",
-        "timestamp": "2024-10-16T17:25:10.157Z",
+        "transaction_id": "d48cdd61-cc8e-4a33-8b7c-e228c9d37c3e",
+        "message_id": "09c38dad-3bb5-4431-888d-a8031e8adda3",
+        "timestamp": "2024-10-21T12:59:23.193Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -42,9 +42,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "7156a772-9251-4dac-b03e-46e9957d3ab3",
-        "message_id": "2e318452-9cc8-4443-88b1-8dc8ac6ccc9f",
-        "timestamp": "2024-10-16T17:26:52.092Z",
+        "transaction_id": "d48cdd61-cc8e-4a33-8b7c-e228c9d37c3e",
+        "message_id": "09c38dad-3bb5-4431-888d-a8031e8adda3",
+        "timestamp": "2024-10-21T13:00:09.288Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -80,7 +80,7 @@
               "id": "670ff204b4b774773b590d51",
               "time": {
                 "label": "enable",
-                "timestamp": "2024-10-16T17:26:52.092Z"
+                "timestamp": "2024-10-21T13:00:09.288Z"
               },
               "fulfillments": [
                 {
@@ -107,7 +107,7 @@
                   "id": "PL_670ff204b4b774773b590d51",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-16T17:26:52.092Z",
+                    "timestamp": "2024-10-21T13:00:09.288Z",
                     "days": "1,2,3,4,5,6,7",
                     "schedule": {
                       "holidays": []
@@ -273,7 +273,7 @@
                   "location_id": "PL_670ff204b4b774773b590d51",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-16T17:26:52.092Z"
+                    "timestamp": "2024-10-21T13:00:09.288Z"
                   },
                   "tags": [
                     {
@@ -369,7 +369,7 @@
                   "location_id": "PL_670ff204b4b774773b590d51",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-16T17:26:52.092Z"
+                    "timestamp": "2024-10-21T13:00:09.288Z"
                   },
                   "tags": [
                     {
@@ -465,7 +465,7 @@
                   "location_id": "PL_670ff204b4b774773b590d51",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-16T17:26:52.092Z"
+                    "timestamp": "2024-10-21T13:00:09.288Z"
                   },
                   "tags": [
                     {
@@ -561,7 +561,7 @@
                   "location_id": "PL_670ff204b4b774773b590d51",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-16T17:26:52.092Z"
+                    "timestamp": "2024-10-21T13:00:09.288Z"
                   },
                   "tags": [
                     {
@@ -658,7 +658,7 @@
                   "location_id": "PL_670ff204b4b774773b590d51",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-16T17:26:52.092Z"
+                    "timestamp": "2024-10-21T13:00:09.288Z"
                   },
                   "tags": [
                     {
@@ -755,7 +755,7 @@
                   "location_id": "PL_670ff204b4b774773b590d51",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-16T17:26:52.092Z"
+                    "timestamp": "2024-10-21T13:00:09.288Z"
                   },
                   "tags": [
                     {
@@ -878,9 +878,9 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "af37e32f-13fb-4ab7-9a4a-5da6f104fbaf",
-        "message_id": "5b648f50-365b-4474-99f5-793a9c3aa096",
-        "timestamp": "2024-10-16T17:28:37.573Z",
+        "transaction_id": "cf19d6b3-acf7-4ae7-823f-0527c1438460",
+        "message_id": "026d40c7-ac9d-4766-bc40-6b3a35516779",
+        "timestamp": "2024-10-21T13:05:27.752Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -914,9 +914,9 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "af37e32f-13fb-4ab7-9a4a-5da6f104fbaf",
-        "message_id": "d05a8dcb-162a-44b2-8ef7-dc4025d9243c",
-        "timestamp": "2024-10-16T17:30:13.732Z",
+        "transaction_id": "cf19d6b3-acf7-4ae7-823f-0527c1438460",
+        "message_id": "1c938c72-22b5-46c1-a5f7-c6d8218845b7",
+        "timestamp": "2024-10-21T13:05:27.752Z",
         "ttl": "PT30S"
       },
       "message": {
@@ -946,7 +946,7 @@
                   "location_id": "PL_670ff204b4b774773b590d51",
                   "time": {
                     "label": "enable",
-                    "timestamp": "2024-10-16T17:28:43.821Z"
+                    "timestamp": "2024-10-21T13:02:55.123Z"
                   },
                   "tags": [
                     {
