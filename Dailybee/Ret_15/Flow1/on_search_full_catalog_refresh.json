@@ -9,8 +9,8 @@
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "db64ba95-0e09-4db8-b6e3-8108dbd91514",
-    "message_id": "6da6a757-d4ed-4322-8f19-587d35ac19de",
+    "transaction_id": "e7a84d4a-228e-4793-8583-d0723430028e",
+    "message_id": "09b40ed9-3a2e-48c2-a30f-2c8028c2f90e",
     "timestamp": "2024-10-15T07:16:14.858Z",
     "ttl": "PT30S"
   },

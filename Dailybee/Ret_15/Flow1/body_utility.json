@@ -14,8 +14,8 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "db64ba95-0e09-4db8-b6e3-8108dbd91514",
-        "message_id": "6da6a757-d4ed-4322-8f19-587d35ac19de",
+        "transaction_id": "54ab2a0b-4bcc-4807-82cf-d598c9bfa3ef",
+        "message_id": "53591882-9af7-49b8-acd0-507b35ffc92b",
         "timestamp": "2024-10-15T07:15:05.212Z",
         "ttl": "PT30S"
       },
@@ -42,8 +42,8 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "db64ba95-0e09-4db8-b6e3-8108dbd91514",
-        "message_id": "6da6a757-d4ed-4322-8f19-587d35ac19de",
+        "transaction_id": "e7a84d4a-228e-4793-8583-d0723430028e",
+        "message_id": "09b40ed9-3a2e-48c2-a30f-2c8028c2f90e",
         "timestamp": "2024-10-15T07:16:14.858Z",
         "ttl": "PT30S"
       },
@@ -610,8 +610,8 @@
         "core_version": "1.2.0",
         "bap_id": "buyer-app-preprod-v2.ondc.org",
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
-        "transaction_id": "aba28683-2746-4ac0-9cdf-75992dc13a66",
-        "message_id": "4ebf9220-e6ea-4f84-b948-65e170b13e9c",
+        "transaction_id": "928dce11-4da8-4fd4-8257-9d1c681a30ab",
+        "message_id": "dd2fac1a-aa24-4ce0-a681-7a44210fca6f",
         "timestamp": "2024-10-15T07:20:32.323Z",
         "ttl": "PT30S"
       },
@@ -646,8 +646,8 @@
         "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
         "bpp_id": "ondc-pp-v2.dlyb.in",
         "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-        "transaction_id": "aba28683-2746-4ac0-9cdf-75992dc13a66",
-        "message_id": "9821bc77-82f3-43e9-8553-536df7b1e9f1",
+        "transaction_id": "928dce11-4da8-4fd4-8257-9d1c681a30ab",
+        "message_id": "5774552c-080f-4ac2-85a7-54befa512946",
         "timestamp": "2024-10-15T07:22:45.158Z",
         "ttl": "PT30S"
       },
