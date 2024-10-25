@@ -10,8 +10,8 @@
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "domain": "ONDC:RET11",
-    "reportTimestamp": "2024-10-20T05:18:27.901Z"
+    "reportTimestamp": "2024-10-25T18:30:27.667Z"
   },
-  "signature": "qUfAjGyZdNCqTCMsWf420JkExLY4b/PCcukKvj+NmpI02K5otnrKdrZbkwiOwGhSwqher5e9uiJXhHyC9lteCQ==",
-  "signTimestamp": "2024-10-20T05:18:27.901Z"
+  "signature": "a6+potMuZ5Yy1d7c6zU5lcbTJqOUw/WYb66jDcQVEzujXYiyxEhaEROtqegXV2pKMkeDADx7oAYxlLN3FWjXAA==",
+  "signTimestamp": "2024-10-25T18:30:27.668Z"
 }
