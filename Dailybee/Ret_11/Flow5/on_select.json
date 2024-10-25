@@ -9,9 +9,9 @@
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "b866680a-bf92-4ebf-b1a6-ffc471c140b0",
-    "message_id": "78e400c0-43bc-498e-8df4-0b0ba261dfa9",
-    "timestamp": "2024-10-20T05:19:47.815Z"
+    "transaction_id": "791c699f-68a5-4be9-8f9a-ab10d46a8c46",
+    "message_id": "1f21adc3-d30a-4282-8454-592afeba79f1",
+    "timestamp": "2024-10-25T18:34:51.804Z"
   },
   "message": {
     "order": {
@@ -33,13 +33,13 @@
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600"
         },
         {
-          "id": "671212275d63f8a7543a4614",
+          "id": "671212705d63f8a7543a4615",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600"
         },
         {
           "id": "671214ae5d63f8a7543a461b",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/",
+          "parent_item_id": "ke0Mv+Gj7kfx",
           "tags": [
             {
               "code": "type",
@@ -55,7 +55,7 @@
         {
           "id": "671219c45d63f8a7543a4621",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/",
+          "parent_item_id": "ke0Mv+Gj7kfx",
           "tags": [
             {
               "code": "parent",
@@ -80,7 +80,7 @@
         {
           "id": "67121ceb5d63f8a7543a4624",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/",
+          "parent_item_id": "ke0Mv+Gj7kfx",
           "tags": [
             {
               "code": "parent",
@@ -103,9 +103,9 @@
           ]
         },
         {
-          "id": "67121f1f5d63f8a7543a4630",
+          "id": "67121eac5d63f8a7543a462b",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/",
+          "parent_item_id": "ke0Mv+Gj7kfx",
           "tags": [
             {
               "code": "parent",
@@ -128,9 +128,9 @@
           ]
         },
         {
-          "id": "67121f3d5d63f8a7543a4632",
+          "id": "67121ec15d63f8a7543a462c",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/",
+          "parent_item_id": "ke0Mv+Gj7kfx",
           "tags": [
             {
               "code": "parent",
@@ -155,7 +155,7 @@
         {
           "id": "671221075d63f8a7543a4634",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a",
+          "parent_item_id": "pAn41g+o61J7",
           "tags": [
             {
               "code": "type",
@@ -169,9 +169,9 @@
           ]
         },
         {
-          "id": "67122b8b5d63f8a7543a4639",
+          "id": "67122b9e5d63f8a7543a463a",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a",
+          "parent_item_id": "pAn41g+o61J7",
           "tags": [
             {
               "code": "parent",
@@ -196,7 +196,7 @@
         {
           "id": "67122bd45d63f8a7543a463c",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a",
+          "parent_item_id": "pAn41g+o61J7",
           "tags": [
             {
               "code": "parent",
@@ -219,9 +219,9 @@
           ]
         },
         {
-          "id": "67122cbf5d63f8a7543a4643",
+          "id": "67122cbf5d63f8a7543a4641",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a",
+          "parent_item_id": "pAn41g+o61J7",
           "tags": [
             {
               "code": "parent",
@@ -246,7 +246,7 @@
         {
           "id": "67122cbf5d63f8a7543a4642",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a",
+          "parent_item_id": "pAn41g+o61J7",
           "tags": [
             {
               "code": "parent",
@@ -267,6 +267,10 @@
               ]
             }
           ]
+        },
+        {
+          "id": "671210c95d63f8a7543a4611",
+          "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600"
         }
       ],
       "fulfillments": [
@@ -287,7 +291,7 @@
       "quote": {
         "price": {
           "currency": "INR",
-          "value": "4098.40"
+          "value": "4724.20"
         },
         "breakup": [
           {
@@ -361,15 +365,15 @@
             }
           },
           {
-            "title": "Jalapeno Dip",
+            "title": "BBQ Baked Chicken Wings (6 pcs)",
             "price": {
               "currency": "INR",
-              "value": "56.00"
+              "value": "538.00"
             },
             "item": {
               "price": {
                 "currency": "INR",
-                "value": "28.00"
+                "value": "269.00"
               },
               "quantity": {
                 "available": {
@@ -380,19 +384,19 @@
                 }
               }
             },
-            "@ondc/org/item_id": "671212275d63f8a7543a4614",
+            "@ondc/org/item_id": "671212705d63f8a7543a4615",
             "@ondc/org/item_quantity": {
               "count": 2
             },
             "@ondc/org/title_type": "item"
           },
           {
-            "@ondc/org/item_id": "671212275d63f8a7543a4614",
+            "@ondc/org/item_id": "671212705d63f8a7543a4615",
             "title": "Tax",
             "@ondc/org/title_type": "tax",
             "price": {
               "currency": "INR",
-              "value": "2.80"
+              "value": "26.90"
             }
           },
           {
@@ -414,7 +418,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "type",
@@ -442,7 +446,7 @@
               "value": "37.90"
             },
             "item": {
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "type",
@@ -475,7 +479,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "parent",
@@ -504,38 +508,6 @@
             "@ondc/org/title_type": "item"
           },
           {
-            "@ondc/org/item_id": "671219c45d63f8a7543a4621",
-            "title": "Tax",
-            "@ondc/org/title_type": "tax",
-            "price": {
-              "currency": "INR",
-              "value": "0.00"
-            },
-            "item": {
-              "parent_item_id": "/u5FraRrZgq/",
-              "tags": [
-                {
-                  "code": "parent",
-                  "list": [
-                    {
-                      "code": "id",
-                      "value": "CG0000000001"
-                    }
-                  ]
-                },
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "customization"
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          {
             "title": "Medium",
             "price": {
               "currency": "INR",
@@ -554,7 +526,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "parent",
@@ -591,7 +563,7 @@
               "value": "26.00"
             },
             "item": {
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "parent",
@@ -615,7 +587,7 @@
             }
           },
           {
-            "title": "Sweet Corn",
+            "title": "Mushroom",
             "price": {
               "currency": "INR",
               "value": "140.00"
@@ -633,7 +605,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "parent",
@@ -655,14 +627,14 @@
                 }
               ]
             },
-            "@ondc/org/item_id": "67121f1f5d63f8a7543a4630",
+            "@ondc/org/item_id": "67121eac5d63f8a7543a462b",
             "@ondc/org/item_quantity": {
               "count": 2
             },
             "@ondc/org/title_type": "item"
           },
           {
-            "@ondc/org/item_id": "67121f1f5d63f8a7543a4630",
+            "@ondc/org/item_id": "67121eac5d63f8a7543a462b",
             "title": "Tax",
             "@ondc/org/title_type": "tax",
             "price": {
@@ -670,7 +642,7 @@
               "value": "7.00"
             },
             "item": {
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "parent",
@@ -694,7 +666,7 @@
             }
           },
           {
-            "title": "Tomato",
+            "title": "Onion",
             "price": {
               "currency": "INR",
               "value": "140.00"
@@ -712,7 +684,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "parent",
@@ -734,14 +706,14 @@
                 }
               ]
             },
-            "@ondc/org/item_id": "67121f3d5d63f8a7543a4632",
+            "@ondc/org/item_id": "67121ec15d63f8a7543a462c",
             "@ondc/org/item_quantity": {
               "count": 2
             },
             "@ondc/org/title_type": "item"
           },
           {
-            "@ondc/org/item_id": "67121f3d5d63f8a7543a4632",
+            "@ondc/org/item_id": "67121ec15d63f8a7543a462c",
             "title": "Tax",
             "@ondc/org/title_type": "tax",
             "price": {
@@ -749,7 +721,7 @@
               "value": "7.00"
             },
             "item": {
-              "parent_item_id": "/u5FraRrZgq/",
+              "parent_item_id": "ke0Mv+Gj7kfx",
               "tags": [
                 {
                   "code": "parent",
@@ -791,7 +763,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "type",
@@ -819,7 +791,7 @@
               "value": "31.90"
             },
             "item": {
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "type",
@@ -834,7 +806,7 @@
             }
           },
           {
-            "title": "Stuffed Crust - Maxx",
+            "title": "Thin n Crispy",
             "price": {
               "currency": "INR",
               "value": "0.00"
@@ -852,7 +824,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "parent",
@@ -874,43 +846,11 @@
                 }
               ]
             },
-            "@ondc/org/item_id": "67122b8b5d63f8a7543a4639",
+            "@ondc/org/item_id": "67122b9e5d63f8a7543a463a",
             "@ondc/org/item_quantity": {
               "count": 2
             },
             "@ondc/org/title_type": "item"
-          },
-          {
-            "@ondc/org/item_id": "67122b8b5d63f8a7543a4639",
-            "title": "Tax",
-            "@ondc/org/title_type": "tax",
-            "price": {
-              "currency": "INR",
-              "value": "0.00"
-            },
-            "item": {
-              "parent_item_id": "9XNNAOlTxL+a",
-              "tags": [
-                {
-                  "code": "parent",
-                  "list": [
-                    {
-                      "code": "id",
-                      "value": "CG0000000004"
-                    }
-                  ]
-                },
-                {
-                  "code": "type",
-                  "list": [
-                    {
-                      "code": "type",
-                      "value": "customization"
-                    }
-                  ]
-                }
-              ]
-            }
           },
           {
             "title": "Medium",
@@ -931,7 +871,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "parent",
@@ -968,7 +908,7 @@
               "value": "26.00"
             },
             "item": {
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "parent",
@@ -992,7 +932,7 @@
             }
           },
           {
-            "title": "Paneer",
+            "title": "Mushroom",
             "price": {
               "currency": "INR",
               "value": "140.00"
@@ -1010,7 +950,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "parent",
@@ -1032,14 +972,14 @@
                 }
               ]
             },
-            "@ondc/org/item_id": "67122cbf5d63f8a7543a4643",
+            "@ondc/org/item_id": "67122cbf5d63f8a7543a4641",
             "@ondc/org/item_quantity": {
               "count": 2
             },
             "@ondc/org/title_type": "item"
           },
           {
-            "@ondc/org/item_id": "67122cbf5d63f8a7543a4643",
+            "@ondc/org/item_id": "67122cbf5d63f8a7543a4641",
             "title": "Tax",
             "@ondc/org/title_type": "tax",
             "price": {
@@ -1047,7 +987,7 @@
               "value": "7.00"
             },
             "item": {
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "parent",
@@ -1089,7 +1029,7 @@
                   "count": "15"
                 }
               },
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "parent",
@@ -1126,7 +1066,7 @@
               "value": "7.00"
             },
             "item": {
-              "parent_item_id": "9XNNAOlTxL+a",
+              "parent_item_id": "pAn41g+o61J7",
               "tags": [
                 {
                   "code": "parent",
@@ -1147,6 +1087,41 @@
                   ]
                 }
               ]
+            }
+          },
+          {
+            "title": "Pepsi 475ml",
+            "price": {
+              "currency": "INR",
+              "value": "114.00"
+            },
+            "item": {
+              "price": {
+                "currency": "INR",
+                "value": "57.00"
+              },
+              "quantity": {
+                "available": {
+                  "count": "99"
+                },
+                "maximum": {
+                  "count": "15"
+                }
+              }
+            },
+            "@ondc/org/item_id": "671210c95d63f8a7543a4611",
+            "@ondc/org/item_quantity": {
+              "count": 2
+            },
+            "@ondc/org/title_type": "item"
+          },
+          {
+            "@ondc/org/item_id": "671210c95d63f8a7543a4611",
+            "title": "Tax",
+            "@ondc/org/title_type": "tax",
+            "price": {
+              "currency": "INR",
+              "value": "5.70"
             }
           },
           {

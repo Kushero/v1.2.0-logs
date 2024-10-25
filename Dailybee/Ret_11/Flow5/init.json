@@ -8,9 +8,9 @@
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "b866680a-bf92-4ebf-b1a6-ffc471c140b0",
-    "message_id": "67f642e1-399c-41ca-9376-29c04ca47565",
-    "timestamp": "2024-10-20T05:21:40.960Z",
+    "transaction_id": "791c699f-68a5-4be9-8f9a-ab10d46a8c46",
+    "message_id": "32d27d36-bcca-4554-90a5-e09fe784df8f",
+    "timestamp": "2024-10-25T18:35:01.481Z",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "ttl": "PT30S"
   },
@@ -42,7 +42,7 @@
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600"
         },
         {
-          "id": "671212275d63f8a7543a4614",
+          "id": "671212705d63f8a7543a4615",
           "quantity": {
             "count": 2
           },
@@ -66,7 +66,7 @@
               ]
             }
           ],
-          "parent_item_id": "/u5FraRrZgq/",
+          "parent_item_id": "ke0Mv+Gj7kfx",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600"
         },
         {
@@ -96,7 +96,7 @@
             }
           ],
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/"
+          "parent_item_id": "ke0Mv+Gj7kfx"
         },
         {
           "id": "67121ceb5d63f8a7543a4624",
@@ -125,10 +125,10 @@
             }
           ],
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/"
+          "parent_item_id": "ke0Mv+Gj7kfx"
         },
         {
-          "id": "67121f1f5d63f8a7543a4630",
+          "id": "67121eac5d63f8a7543a462b",
           "quantity": {
             "count": 2
           },
@@ -154,10 +154,10 @@
             }
           ],
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/"
+          "parent_item_id": "ke0Mv+Gj7kfx"
         },
         {
-          "id": "67121f3d5d63f8a7543a4632",
+          "id": "67121ec15d63f8a7543a462c",
           "quantity": {
             "count": 2
           },
@@ -183,7 +183,7 @@
             }
           ],
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "/u5FraRrZgq/"
+          "parent_item_id": "ke0Mv+Gj7kfx"
         },
         {
           "id": "671221075d63f8a7543a4634",
@@ -202,11 +202,11 @@
               ]
             }
           ],
-          "parent_item_id": "9XNNAOlTxL+a",
+          "parent_item_id": "pAn41g+o61J7",
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600"
         },
         {
-          "id": "67122b8b5d63f8a7543a4639",
+          "id": "67122b9e5d63f8a7543a463a",
           "quantity": {
             "count": 2
           },
@@ -232,7 +232,7 @@
             }
           ],
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a"
+          "parent_item_id": "pAn41g+o61J7"
         },
         {
           "id": "67122bd45d63f8a7543a463c",
@@ -261,10 +261,10 @@
             }
           ],
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a"
+          "parent_item_id": "pAn41g+o61J7"
         },
         {
-          "id": "67122cbf5d63f8a7543a4643",
+          "id": "67122cbf5d63f8a7543a4641",
           "quantity": {
             "count": 2
           },
@@ -290,7 +290,7 @@
             }
           ],
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a"
+          "parent_item_id": "pAn41g+o61J7"
         },
         {
           "id": "67122cbf5d63f8a7543a4642",
@@ -319,7 +319,15 @@
             }
           ],
           "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600",
-          "parent_item_id": "9XNNAOlTxL+a"
+          "parent_item_id": "pAn41g+o61J7"
+        },
+        {
+          "id": "671210c95d63f8a7543a4611",
+          "quantity": {
+            "count": 2
+          },
+          "location_id": "PL_6711edf95d63f8a7543a4600",
+          "fulfillment_id": "SD_PL_6711edf95d63f8a7543a4600"
         }
       ],
       "billing": {
@@ -335,8 +343,8 @@
         "phone": "7337451108",
         "name": "integrations-hithesh",
         "email": "hitheshlade1214@gmail.com",
-        "created_at": "2024-10-20T05:21:40.960Z",
-        "updated_at": "2024-10-20T05:21:40.960Z"
+        "created_at": "2024-10-25T18:35:01.481Z",
+        "updated_at": "2024-10-25T18:35:01.481Z"
       },
       "fulfillments": [
         {
