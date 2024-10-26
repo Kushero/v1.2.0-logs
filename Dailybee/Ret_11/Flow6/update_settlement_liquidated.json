@@ -7,19 +7,19 @@
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "596e8faa-6dbf-4c1e-aa47-99eb7c8abdf4",
-    "message_id": "d3576684-df2a-43c7-8914-00de083df0f6",
+    "transaction_id": "6d413b70-e35c-425e-be83-5ac5e4421061",
+    "message_id": "41077344-3f6d-4f8d-bdc6-b744390d471a",
     "city": "std:080",
     "country": "IND",
-    "timestamp": "2024-10-22T13:37:00.548Z"
+    "timestamp": "2024-10-26T08:42:52.237Z"
   },
   "message": {
     "update_target": "payment",
     "order": {
-      "id": "2024-10-22-315050",
+      "id": "2024-10-26-422241",
       "fulfillments": [
         {
-          "id": "6717aa2e40a3502c5bd90031",
+          "id": "671cab78cc7597371ffc50ee",
           "type": "Return"
         }
       ],
@@ -30,7 +30,7 @@
             "settlement_phase": "refund",
             "settlement_type": "wallet",
             "settlement_amount": "3019.8",
-            "settlement_timestamp": "2024-10-22T13:37:00.548Z"
+            "settlement_timestamp": "2024-10-26T08:42:52.237Z"
           }
         ]
       }
