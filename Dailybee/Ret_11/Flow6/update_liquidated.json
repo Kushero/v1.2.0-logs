@@ -8,16 +8,16 @@
     "bap_id": "buyer-app-preprod-v2.ondc.org",
     "bap_uri": "https://buyer-app-preprod-v2.ondc.org/protocol/v1",
     "bpp_uri": "https://ondc-pp-v2.dlyb.in/v2/retailSeller",
-    "transaction_id": "6d413b70-e35c-425e-be83-5ac5e4421061",
-    "message_id": "0aa92f19-b45f-4cc1-9d91-1a7c60ad1e46",
-    "timestamp": "2024-10-26T08:42:32.486Z",
+    "transaction_id": "6fee1d69-7e5f-467f-b427-40113fa157cb",
+    "message_id": "3ebc0c3a-483a-4300-a46b-8f944e2f8a69",
+    "timestamp": "2024-10-28T05:39:46.143Z",
     "bpp_id": "ondc-pp-v2.dlyb.in",
     "ttl": "PT30S"
   },
   "message": {
     "update_target": "item",
     "order": {
-      "id": "2024-10-26-422241",
+      "id": "2024-10-28-862597",
       "fulfillments": [
         {
           "type": "Return",
@@ -27,7 +27,7 @@
               "list": [
                 {
                   "code": "id",
-                  "value": "671cab78cc7597371ffc50ee"
+                  "value": "671f23a2cc7597371ffcfb98"
                 },
                 {
                   "code": "item_id",
@@ -35,7 +35,7 @@
                 },
                 {
                   "code": "parent_item_id",
-                  "value": "YiKYz6XgJJMI"
+                  "value": "KGOwR+GVT203"
                 },
                 {
                   "code": "item_quantity",
@@ -51,7 +51,7 @@
                 },
                 {
                   "code": "images",
-                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-26-422241/55bd196b-f3d4-4902-87d2-866fee7c9814.png"
+                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-28-862597/39f0b536-1609-4b62-b7a2-8e7c2003e708.png"
                 },
                 {
                   "code": "ttl_approval",
@@ -68,15 +68,15 @@
               "list": [
                 {
                   "code": "id",
-                  "value": "671cab78cc7597371ffc50ee"
+                  "value": "671f23a2cc7597371ffcfb98"
                 },
                 {
                   "code": "item_id",
-                  "value": "67122b9e5d63f8a7543a463a"
+                  "value": "67122b715d63f8a7543a4638"
                 },
                 {
                   "code": "parent_item_id",
-                  "value": "YiKYz6XgJJMI"
+                  "value": "KGOwR+GVT203"
                 },
                 {
                   "code": "item_quantity",
@@ -92,7 +92,7 @@
                 },
                 {
                   "code": "images",
-                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-26-422241/55bd196b-f3d4-4902-87d2-866fee7c9814.png"
+                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-28-862597/39f0b536-1609-4b62-b7a2-8e7c2003e708.png"
                 },
                 {
                   "code": "ttl_approval",
@@ -109,7 +109,7 @@
               "list": [
                 {
                   "code": "id",
-                  "value": "671cab78cc7597371ffc50ee"
+                  "value": "671f23a2cc7597371ffcfb98"
                 },
                 {
                   "code": "item_id",
@@ -117,7 +117,7 @@
                 },
                 {
                   "code": "parent_item_id",
-                  "value": "YiKYz6XgJJMI"
+                  "value": "KGOwR+GVT203"
                 },
                 {
                   "code": "item_quantity",
@@ -133,7 +133,7 @@
                 },
                 {
                   "code": "images",
-                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-26-422241/55bd196b-f3d4-4902-87d2-866fee7c9814.png"
+                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-28-862597/39f0b536-1609-4b62-b7a2-8e7c2003e708.png"
                 },
                 {
                   "code": "ttl_approval",
@@ -150,15 +150,15 @@
               "list": [
                 {
                   "code": "id",
-                  "value": "671cab78cc7597371ffc50ee"
+                  "value": "671f23a2cc7597371ffcfb98"
                 },
                 {
                   "code": "item_id",
-                  "value": "67122cbf5d63f8a7543a4644"
+                  "value": "67122cbf5d63f8a7543a463e"
                 },
                 {
                   "code": "parent_item_id",
-                  "value": "YiKYz6XgJJMI"
+                  "value": "KGOwR+GVT203"
                 },
                 {
                   "code": "item_quantity",
@@ -174,7 +174,7 @@
                 },
                 {
                   "code": "images",
-                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-26-422241/55bd196b-f3d4-4902-87d2-866fee7c9814.png"
+                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-28-862597/39f0b536-1609-4b62-b7a2-8e7c2003e708.png"
                 },
                 {
                   "code": "ttl_approval",
@@ -191,15 +191,15 @@
               "list": [
                 {
                   "code": "id",
-                  "value": "671cab78cc7597371ffc50ee"
+                  "value": "671f23a2cc7597371ffcfb98"
                 },
                 {
                   "code": "item_id",
-                  "value": "67122cbf5d63f8a7543a4645"
+                  "value": "67122cbf5d63f8a7543a463d"
                 },
                 {
                   "code": "parent_item_id",
-                  "value": "YiKYz6XgJJMI"
+                  "value": "KGOwR+GVT203"
                 },
                 {
                   "code": "item_quantity",
@@ -215,7 +215,7 @@
                 },
                 {
                   "code": "images",
-                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-26-422241/55bd196b-f3d4-4902-87d2-866fee7c9814.png"
+                  "value": "https://reference-buyer-app-assets.s3-ap-south-1.amazonaws.com/public-assets/2024-10-28-862597/39f0b536-1609-4b62-b7a2-8e7c2003e708.png"
                 },
                 {
                   "code": "ttl_approval",
